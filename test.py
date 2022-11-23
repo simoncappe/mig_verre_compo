@@ -33,7 +33,7 @@ def normalization(data):
         res=std_n.fit_transform(x)
         data[col]=res
 #
-data_std=(data - data.mean()) / data.std(ddof = 0)
+data=(data - data.mean()) / data.std(ddof = 0)
 
 x_train,x_test,y_train,y_test=train_test_split(data,y,test_size=0.2)
 polynomial_features=PolynomialFeatures(degree=5)

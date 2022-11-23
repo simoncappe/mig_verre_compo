@@ -30,34 +30,60 @@ def normalization(data):
         res=std_n.fit_transform(x)
         data[col]=res
 #
-data_std=(data - data.mean()) / data.std(ddof = 0)
+data=(data - data.mean()) / data.std(ddof = 0)
 
-x_train,x_test,y_train,y_test=train_test_split(data,y,test_size=0.2)
-polynomial_features=PolynomialFeatures(degree=5)
-poly_regression_alg=LinearRegression()
+#x_train,x_test,y_train,y_test=train_test_split(data,y,test_size=0.2)
+#polynomial_features=PolynomialFeatures(degree=2)
+#poly_regression_alg=LinearRegression()
 
-model=Pipeline([
-    ("polynomial_features", polynomial_features),
-    ("linear_regression", poly_regression_alg)
-])
-model.fit(x_train,y_train)
+#model=Pipeline([
+#    ("polynomial_features", polynomial_features),
+#    ("linear_regression", poly_regression_alg)
+#])
+#model.fit(x_train,y_train)
 
-train_predictions=model.predict(x_train)
+#train_predictions=model.predict(x_train)
 
-print(f"RMSE= {round(np.sqrt(mean_squared_error(y_train,train_predictions)),2)}")
-print(f"R2_score={round(r2_score(y_train,train_predictions),2)}")
+#print(f"RMSE= {round(np.sqrt(mean_squared_error(y_train,train_predictions)),2)}")
+#print(f"R2_score={round(r2_score(y_train,train_predictions),2)}")
 
 
 from sklearn.model_selection import KFold
-kf=KFold(n_splits=2,shuffle=True)
+#kf=KFold(n_splits=2,shuffle=True)
 
-def create_evaluate_model(index_fold,x_train,x_test,y_train,y_test):
+def create_evaluate_model_polynomiale(index_fold,x_train,x_test,y_train,y_test,deg):
+    polynomial_features=PolynomialFeatures(degree=deg)
+    poly_regression_alg=LinearRegression()
+
+    model=Pipeline([
+    ("polynomial_features", polynomial_features),
+    ("linear_regression", poly_regression_alg)])
+
     regression_alg=LinearRegression()
-    regression_alg.fit(x_train,y_train)
-    test_predictions=regression_alg.predict(x_test)
+    model.fit(x_train,y_train)
+    test_predictions=model.predict(x_test)
     rmse=np.sqrt(mean_squared_error(y_test,test_predictions))
     r2=r2_score(y_test,test_predictions)
-    print(f"Run {index_fold}:RMSE={round(rmse,2)}-R2_score={round(r2,2)}")
+    #print(f"Run {index_fold}:RMSE={round(rmse,2)}-R2_score={round(r2,2)}")
     return (rmse,r2)
 
-print(kf)
+nb_model=5
+kf=KFold(n_splits=nb_model, shuffle=False)
+
+index_fold=0
+average_rmse=0
+average_r2=0
+deg=2
+for train_index, test_index in kf.split(data):
+    x_train, x_test=data.iloc[train_index], data.iloc[test_index]
+    y_train, y_test=y.iloc[train_index], y.iloc[test_index]
+    
+    current_rmse,current_r2=create_evaluate_model_polynomiale(index_fold,x_train,x_test,y_train,y_test,deg)
+
+    average_rmse=average_rmse+current_rmse
+    average_r2=average_r2+current_r2
+
+    index_fold= index_fold +1
+average_rmse=average_rmse/nb_model
+average_r2=average_r2/nb_model
+#print(f"Moyenne : RMSE={round(average_rmse,2)}-R2-score={round(average_r2,2)}")
