@@ -22,6 +22,7 @@ f['sum']=np.sum(f.iloc[:,0:5],axis=1)
 f=f[abs(f['sum']-100)<10**(-5)]
 
 
+
 g=pd.read_csv('density_table.csv',usecols=[' SiO2', ' Al2O3', ' MgO', ' CaO',
 ' Na2O', ' Density ( g/cm3 )'])
 g.replace([u,v],[float(0.),float(0.)],inplace=True)
@@ -34,10 +35,25 @@ def traitement_data(file:str):
     df_bis= pd.read_csv(file)
     l=list(df_bis.columns)
     r=pd.read_csv(file,usecols=l[5:11])
+    p=r.columns
     r.replace([u,v],[0.,0.],inplace=True)
     df0=r.astype(float,copy=True)
     df0['sum']=np.sum(df0.iloc[:,0:5],axis=1)
     df0=df0[abs(df0['sum']-100)<10**(-3)]
+    df0=df0[p]
     return df0
 
-print(u,v)
+def nettoyage_y(data):
+       y=data.columns[-1]
+       m=data[y].mean()
+       e=np.sqrt(data[y].var())
+       data=data[abs(data[y]-m)<=e]
+       return data
+
+
+m=g[' Density ( g/cm3 )'].mean()
+e=np.sqrt(g[' Density ( g/cm3 )'].var())
+
+g=g[abs(g[' Density ( g/cm3 )']-m)<=e]
+
+f=traitement_data('liquidus_table_100.csv')
