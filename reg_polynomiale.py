@@ -10,9 +10,14 @@ from sklearn import preprocessing
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import PolynomialFeatures
 
-from preparation_donnees_INTERGLAD_06 import extract_table,select_data,str_to_float
+from preparation_donnees_INTERGLAD_06 import cleanup_data,extract_table,select_data,str_to_float
 
 density_file='density_table.csv'
+
+#oxides=['SiO2','MgO','Na2O','Al2O3','CaO']
+#extract_table(density_file,oxides,'Density')
+#select_data('density_100_tableonly',oxides,'Density')
+#cleanup_data('Density_100_tableonly_data',0.1,100)
 grandeur_mesuree=df0.columns[-1]
 data=df0[df0.columns[0:-1]]
 
@@ -29,24 +34,24 @@ def normalization(data):
 #
 data=(data - data.mean()) / data.std(ddof = 0)
 
-#x_train,x_test,y_train,y_test=train_test_split(data,y,test_size=0.2)
-#polynomial_features=PolynomialFeatures(degree=2)
-#poly_regression_alg=LinearRegression()
+x_train,x_test,y_train,y_test=train_test_split(data,y,test_size=0.2)
+polynomial_features=PolynomialFeatures(degree=2)
+poly_regression_alg=LinearRegression()
 
-#model=Pipeline([
-#    ("polynomial_features", polynomial_features),
-#    ("linear_regression", poly_regression_alg)
-#])
-#model.fit(x_train,y_train)
+model=Pipeline([
+    ("polynomial_features", polynomial_features),
+    ("linear_regression", poly_regression_alg)
+])
+model.fit(x_train,y_train)
 
-#train_predictions=model.predict(x_train)
+train_predictions=model.predict(x_train)
 
-#print(f"RMSE= {round(np.sqrt(mean_squared_error(y_train,train_predictions)),2)}")
-#print(f"R2_score={round(r2_score(y_train,train_predictions),2)}")
+print(f"RMSE= {round(np.sqrt(mean_squared_error(y_train,train_predictions)),2)}")
+print(f"R2_score={round(r2_score(y_train,train_predictions),2)}")
 
 
 from sklearn.model_selection import KFold
-#kf=KFold(n_splits=2,shuffle=True)
+kf=KFold(n_splits=2,shuffle=True)
 
 def create_evaluate_model_polynomiale(index_fold,x_train,x_test,y_train,y_test,deg):
     polynomial_features=PolynomialFeatures(degree=deg)

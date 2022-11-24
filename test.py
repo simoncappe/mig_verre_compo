@@ -9,7 +9,6 @@ from sklearn import preprocessing
 
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import PolynomialFeatures
-from traitement_backup import traitement_data,u,v,nettoyage_y,traitement_data_improved
 
 liquid0='liquidus_table_100.csv'
 liquid9='liquidus_table_95.csv'
