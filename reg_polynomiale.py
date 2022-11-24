@@ -10,14 +10,11 @@ from sklearn import preprocessing
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import PolynomialFeatures
 
-from traitement import g,traitement_data,u,v,nettoyage_y
+from preparation_donnees_INTERGLAD_06 import extract_table,select_data,str_to_float
 
 density_file='density_table.csv'
-df0=traitement_data(density_file)
-df0=nettoyage_y(df0)
 grandeur_mesuree=df0.columns[-1]
-data=df0[[' SiO2', ' Al2O3', ' MgO', ' CaO',
-' Na2O']]
+data=df0[df0.columns[0:-1]]
 
 y=df0[[grandeur_mesuree]]
 #
@@ -64,7 +61,7 @@ def create_evaluate_model_polynomiale(index_fold,x_train,x_test,y_train,y_test,d
     test_predictions=model.predict(x_test)
     rmse=np.sqrt(mean_squared_error(y_test,test_predictions))
     r2=r2_score(y_test,test_predictions)
-    #print(f"Run {index_fold}:RMSE={round(rmse,2)}-R2_score={round(r2,2)}")
+    print(f"Run {index_fold}:RMSE={round(rmse,2)}-R2_score={round(r2,2)}")
     return (rmse,r2)
 
 nb_model=5
@@ -86,4 +83,4 @@ for train_index, test_index in kf.split(data):
     index_fold= index_fold +1
 average_rmse=average_rmse/nb_model
 average_r2=average_r2/nb_model
-#print(f"Moyenne : RMSE={round(average_rmse,2)}-R2-score={round(average_r2,2)}")
+print(f"Moyenne : RMSE={round(average_rmse,2)}-R2-score={round(average_r2,2)}")

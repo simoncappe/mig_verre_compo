@@ -1,0 +1,835 @@
+No., Glass No., Data Source, Year, Data Source Number, SiO2, Al2O3, MgO, CaO, Na2O, SO3, Viscocity at 1000C ( dPa.s )
+1, GJ02-000026, Glass Science and Technology, 1983, v. 056  p. 0125, 66.2, 1.81, 4.74, 7.15, 13.63, 0.07, 2064.0
+2, GB02-004637, Handbook of Glass Properties, 1986, v. 001  p. 0268, 60.0, , , , 20.0, , 1000.0
+3, GB02-004645, Handbook of Glass Properties, 1986, v. 001  p. 0266, 70.0, , , , 20.0, , 1000.0
+4, GB02-004646, Handbook of Glass Properties, 1986, v. 001  p. 0266, 60.0, , , , 20.0, , 1000.0
+5, GB02-004647, Handbook of Glass Properties, 1986, v. 001  p. 0266, 60.0, , , , 30.0, , 1000.0
+6, GB04-004648, Handbook of Glass Properties, 1986, v. 001  p. 0264, 52.3, , , , 9.0, , 20.89
+7, GB04-004649, Handbook of Glass Properties, 1986, v. 001  p. 0264, 55.4, , , , 9.1, , 31.62
+8, GB04-004650, Handbook of Glass Properties, 1986, v. 001  p. 0264, 54.6, , , , 12.2, , 38.9
+9, GB04-004651, Handbook of Glass Properties, 1986, v. 001  p. 0264, 56.7, , , , 13.7, , 54.95
+10, GB04-004652, Handbook of Glass Properties, 1986, v. 001  p. 0264, 57.8, , , , 15.3, , 63.1
+11, GB04-004653, Handbook of Glass Properties, 1986, v. 001  p. 0264, 57.5, , , , 18.4, , 74.13
+12, GB02-004654, Handbook of Glass Properties, 1986, v. 001  p. 0264, 60.8, , , , 19.6, , 147.9
+13, GB02-004655, Handbook of Glass Properties, 1986, v. 001  p. 0264, 63.2, , , , 26.6, , 302.0
+14, GB02-005051, Handbook of Glass Properties, 1986, v. 001  p. 0233, 80.0, , , , 20.0, , 8913.0
+15, GB02-005052, Handbook of Glass Properties, 1986, v. 001  p. 0233, 75.0, , , , 25.0, , 4467.0
+16, GB02-005053, Handbook of Glass Properties, 1986, v. 001  p. 0233, 70.0, , , , 30.0, , 1995.0
+17, GB02-005054, Handbook of Glass Properties, 1986, v. 001  p. 0233, 65.0, , , , 35.0, , 1000.0
+18, GB02-005055, Handbook of Glass Properties, 1986, v. 001  p. 0233, 60.0, , , , 40.0, , 446.7
+19, GB02-005056, Handbook of Glass Properties, 1986, v. 001  p. 0233, 55.0, , , , 45.0, , 125.9
+20, GB02-005057, Handbook of Glass Properties, 1986, v. 001  p. 0233, 50.0, , , , 50.0, , 35.48
+21, GB02-005239, Handbook of Glass Properties, 1986, v. 001  p. 0270, 70.9, , , 11.7, , , 50120.0
+22, GJ06-008133, American Ceramic Soc. Bull., 1985, v. 064  p. 1459, 55.56, 22.22, 22.22, , , , 6309573.0
+23, GJ05-010069, J. American Ceramic Soc., 1974, v. 057  p. 0109, 72.44, , , , 7.02, , 10000.0
+24, GB02-013667, Handbook of Glass Data, 1987, v. 00C  p. 0032, 80.0, , , , 10.0, , 9772.0
+25, GB02-013668, Handbook of Glass Data, 1987, v. 00C  p. 0032, 80.0, , , , 10.0, , 12300.0
+26, GJ35-015321, Glass Science and Technology, 1981, v. 054  p. 0279, , 8.0, , , , , 2512.0
+27, GJ35-015322, Glass Science and Technology, 1981, v. 054  p. 0279, , 9.0, , , , , 10000.0
+28, GJ35-015337, Glass Science and Technology, 1981, v. 054  p. 0279, , 8.0, , , , , *
+29, GJ35-015338, Glass Science and Technology, 1981, v. 054  p. 0279, , 10.0, , , , , *
+30, GJ35-015343, Glass Science and Technology, 1981, v. 054  p. 0279, , 8.0, , , 12.0, , *
+31, GJ35-015345, Glass Science and Technology, 1981, v. 054  p. 0279, , 10.0, , , 10.0, , *
+32, GJ35-015347, Glass Science and Technology, 1981, v. 054  p. 0279, , 12.0, , , 8.0, , *
+33, GJ35-015356, Glass Science and Technology, 1981, v. 054  p. 0279, , , , , 10.0, , 10.0
+34, GJ35-015357, Glass Science and Technology, 1981, v. 054  p. 0279, , 3.0, , , 8.5, , 25.12
+35, GJ35-015358, Glass Science and Technology, 1981, v. 054  p. 0279, , 6.0, , , 7.0, , 100.0
+36, GJ35-015359, Glass Science and Technology, 1981, v. 054  p. 0279, , 8.0, , , 6.0, , 562.3
+37, GJ35-015361, Glass Science and Technology, 1981, v. 054  p. 0279, , 10.0, , , 5.0, , 19950.0
+38, GJ35-015363, Glass Science and Technology, 1981, v. 054  p. 0279, , 12.0, , , 4.0, , 100000.0
+39, GJ35-015379, Glass Science and Technology, 1981, v. 054  p. 0279, , 11.25, , , , , *
+40, GB02-017216, Handbook of Glass Data, 1987, v. 00C  p. 0176, 73.85, , , 10.76, 15.38, , 10000.0
+41, GB02-017217, Handbook of Glass Data, 1987, v. 00C  p. 0176, 73.46, , , 13.12, 13.42, , 10000.0
+42, GB02-017218, Handbook of Glass Data, 1987, v. 00C  p. 0176, 77.63, , , , 17.57, , 10000.0
+43, GB02-017221, Handbook of Glass Data, 1987, v. 00C  p. 0176, 79.48, , , , 15.61, , 10000.0
+44, GB02-017224, Handbook of Glass Data, 1987, v. 00C  p. 0176, 78.25, , , , 14.34, , 10000.0
+45, GB02-017225, Handbook of Glass Data, 1987, v. 00C  p. 0176, 75.26, , , , 14.7, , 10000.0
+46, GB02-017228, Handbook of Glass Data, 1987, v. 00C  p. 0187, 75.0, , , 10.0, 15.0, , 10000.0
+47, GB02-017237, Handbook of Glass Data, 1987, v. 00C  p. 0187, 65.0, , , 5.0, 30.0, , 1000.0
+48, GB02-017243, Handbook of Glass Data, 1987, v. 00C  p. 0187, 50.0, , , 25.0, 25.0, , 1000.0
+49, GB02-017244, Handbook of Glass Data, 1987, v. 00C  p. 0188, 80.0, , , , 20.0, , 10000.0
+50, GB02-017249, Handbook of Glass Data, 1987, v. 00C  p. 0188, 70.0, , 10.0, , 20.0, , 10000.0
+51, GB02-017251, Handbook of Glass Data, 1987, v. 00C  p. 0188, 60.0, , 10.0, , 30.0, , 1000.0
+52, GB02-017253, Handbook of Glass Data, 1987, v. 00C  p. 0188, 60.0, , , 20.0, 20.0, , 1000.0
+53, GB02-017257, Handbook of Glass Data, 1987, v. 00C  p. 0188, 60.0, , , , 30.0, , 1000.0
+54, GB02-017259, Handbook of Glass Data, 1987, v. 00C  p. 0188, 60.0, , , , 20.0, , 1000.0
+55, GB02-017267, Handbook of Glass Data, 1987, v. 00C  p. 0189, 70.0, , , , 20.0, , 1000.0
+56, GB02-017270, Handbook of Glass Data, 1987, v. 00C  p. 0189, 70.0, , , , 20.0, , 1000.0
+57, GB02-017271, Handbook of Glass Data, 1987, v. 00C  p. 0189, 60.0, , , , 20.0, , 1000.0
+58, GB02-017272, Handbook of Glass Data, 1987, v. 00C  p. 0189, 60.0, , , , 30.0, , 1000.0
+59, GB02-017274, Handbook of Glass Data, 1987, v. 00C  p. 0189, 60.0, , , , 20.0, , 1000.0
+60, GB02-019602, Handbook of Glass Data, 1987, v. 00C  p. 0175, 52.3, , , , 9.0, , 20.89
+61, GB02-019603, Handbook of Glass Data, 1987, v. 00C  p. 0175, 55.4, , , , 9.1, , 31.62
+62, GB02-019604, Handbook of Glass Data, 1987, v. 00C  p. 0175, 54.6, , , , 12.2, , 38.9
+63, GB02-019605, Handbook of Glass Data, 1987, v. 00C  p. 0175, 56.7, , , , 13.7, , 54.95
+64, GB02-019606, Handbook of Glass Data, 1987, v. 00C  p. 0175, 57.8, , , , 15.3, , 63.1
+65, GB02-019607, Handbook of Glass Data, 1987, v. 00C  p. 0175, 57.5, , , , 18.4, , 74.13
+66, GB02-019608, Handbook of Glass Data, 1987, v. 00C  p. 0175, 60.8, , , , 19.6, , 147.9
+67, GB02-019609, Handbook of Glass Data, 1987, v. 00C  p. 0175, 63.2, , , , 26.6, , 302.0
+68, GB02-019610, Handbook of Glass Data, 1987, v. 00C  p. 0175, 66.0, , , , 34.0, , 1175.0
+69, GB02-019653, Handbook of Glass Data, 1987, v. 00C  p. 0190, 70.0, , , 9.6, 20.4, , 3388.0
+70, GB02-019654, Handbook of Glass Data, 1987, v. 00C  p. 0190, 70.9, , , 11.7, , , 50120.0
+71, GB02-019661, Handbook of Glass Data, 1987, v. 00C  p. 0193, 72.22, , 9.72, , 18.06, , 19500.0
+72, GB02-019662, Handbook of Glass Data, 1987, v. 00C  p. 0193, 72.22, , , 9.72, 18.06, , 10470.0
+73, GB02-019663, Handbook of Glass Data, 1987, v. 00C  p. 0193, 72.22, , , , 18.06, , 7762.0
+74, GB02-019664, Handbook of Glass Data, 1987, v. 00C  p. 0193, 72.22, , , , 18.06, , 4169.0
+75, GJ02-022850, Neorganicheskie Materialy (R), 1971, v. 007  p. 1285, 66.67, , , , 33.33, , 158.5
+76, GJ02-022851, Neorganicheskie Materialy (R), 1971, v. 007  p. 1285, 50.0, , , , 33.33, , 7.079
+77, GJ02-022852, Neorganicheskie Materialy (R), 1971, v. 007  p. 1285, 50.0, , , , 30.0, , 5.012
+78, GJ02-022853, Neorganicheskie Materialy (R), 1971, v. 007  p. 1285, 50.0, , , , 23.33, , 5.012
+79, GJ02-022854, Neorganicheskie Materialy (R), 1971, v. 007  p. 1285, 50.0, , , , 23.33, , 2.818
+80, GJ02-022855, Neorganicheskie Materialy (R), 1971, v. 007  p. 1285, 49.99, , , , 26.67, , 5.0119
+81, GJ02-022856, Neorganicheskie Materialy (R), 1971, v. 007  p. 1285, 50.0, , , , 20.0, , 7.943
+82, GJ02-022857, Neorganicheskie Materialy (R), 1971, v. 007  p. 1285, 45.0, 5.0, , , 33.33, , 8.9125
+83, GJ09-022858, Neorganicheskie Materialy (R), 1971, v. 007  p. 1285, 50.0, , , , 15.0, , 7.943
+84, GJ02-022859, Neorganicheskie Materialy (R), 1971, v. 007  p. 1285, 49.99, , , , 16.67, , 7.943
+85, GB05-025361, Handbook of Glass Data, 1987, v. 00C  p. 0412, 70.5, , , , 6.8, , 7413.0
+86, GJ02-026026, Glass Science and Technology, 1984, v. 057  p. 0097, 74.0, , , 10.0, 16.0, , 7943.0
+87, GJ38-026028, Glass Science and Technology, 1984, v. 057  p. 0097, 73.71, , , 9.96, 15.94, , 15850.0
+88, GJ38-026029, Glass Science and Technology, 1984, v. 057  p. 0097, 73.63, , , 9.95, 15.92, , 15850.0
+89, GJ38-026032, Glass Science and Technology, 1984, v. 057  p. 0097, 73.34, , , 9.91, 15.86, , 19950.0
+90, GJ38-026040, Glass Science and Technology, 1984, v. 057  p. 0097, 72.62, , , 9.81, 15.7, , 39810.0
+91, GJ38-026041, Glass Science and Technology, 1984, v. 057  p. 0097, 72.55, , , 9.8, 15.69, , 50120.0
+92, GJ38-026042, Glass Science and Technology, 1984, v. 057  p. 0097, 72.41, , , 9.78, 15.66, , 44670.0
+93, GJ38-026043, Glass Science and Technology, 1984, v. 057  p. 0097, 72.34, , , 9.78, 15.64, , 50120.0
+94, GB02-027352, Handbook of Glass Data, 1987, v. 00C  p. 0601, 40.0, , , , 46.0, , 28.0
+95, GB02-027353, Handbook of Glass Data, 1987, v. 00C  p. 0601, 30.0, , , , 48.0, , 13.0
+96, GB02-027354, Handbook of Glass Data, 1987, v. 00C  p. 0601, 30.0, , , , 34.5, , 34.0
+97, GB02-027355, Handbook of Glass Data, 1987, v. 00C  p. 0601, 50.0, , , , 38.0, , 210.0
+98, GB02-027356, Handbook of Glass Data, 1987, v. 00C  p. 0601, 40.0, , , , 40.0, , 74.0
+99, GB02-027357, Handbook of Glass Data, 1987, v. 00C  p. 0601, 30.0, , , , 42.0, , 23.0
+100, GB02-027358, Handbook of Glass Data, 1987, v. 00C  p. 0601, 60.0, , , , 29.0, , 564.0
+101, GB02-027359, Handbook of Glass Data, 1987, v. 00C  p. 0601, 50.0, , , , 31.0, , 202.0
+102, GB02-027360, Handbook of Glass Data, 1987, v. 00C  p. 0601, 40.0, , , , 32.5, , 117.0
+103, GB02-027361, Handbook of Glass Data, 1987, v. 00C  p. 0601, 70.0, , , , 18.0, , 1000.0
+104, GB02-027362, Handbook of Glass Data, 1987, v. 00C  p. 0601, 60.0, , , , 18.5, , 1000.0
+105, GB02-027363, Handbook of Glass Data, 1987, v. 00C  p. 0601, 50.0, , , , 19.0, , 381.0
+106, GB10-027869, Handbook of Glass Data, 1985, v. 00B  p. 0119, , , , , 1.0, , 25.7
+107, GB10-027870, Handbook of Glass Data, 1985, v. 00B  p. 0119, , , , , 3.0, , 14.13
+108, GB10-027871, Handbook of Glass Data, 1985, v. 00B  p. 0119, , , , , 5.6, , 8.128
+109, CP02-030164, Japanese Patent    Others, 1984, A045941, 71.9, , 1.49, 13.05, 13.07, , 31620.0
+110, GP05-030453, Japanese Patent    Owens Illinois Inc. (US), 1984, A174542, 75.76, 4.15, 0.33, 0.48, 6.74, , 100000.0
+111, GJ03-032900, Glass & Ceramics, 1988, v. 045  p. 0018, 76.63, 4.74, 0.84, 6.42, 8.53, , 44670.0
+112, GJ03-032901, Glass & Ceramics, 1988, v. 045  p. 0018, 71.36, 4.2, 0.98, 6.84, 10.75, , 21380.0
+113, GJ03-032902, Glass & Ceramics, 1988, v. 045  p. 0018, 73.0, 3.5, 3.0, 5.0, 11.0, , 31620.0
+114, GJ03-032903, Glass & Ceramics, 1988, v. 045  p. 0018, 73.0, 3.5, 1.0, 7.0, 11.0, , 17780.0
+115, GJ03-032904, Glass & Ceramics, 1988, v. 045  p. 0018, 73.0, 3.0, 2.5, 7.0, 13.5, , 17780.0
+116, GJ03-032905, Glass & Ceramics, 1988, v. 045  p. 0018, 73.0, 1.5, 2.0, 8.0, 15.5, , 12590.0
+117, GJ03-032906, Glass & Ceramics, 1988, v. 045  p. 0018, 73.0, 1.3, 4.0, 6.0, 15.7, , 13180.0
+118, GJ03-032907, Glass & Ceramics, 1988, v. 045  p. 0018, 73.5, 1.5, 0.5, 9.0, 15.5, , 7943.0
+119, GJ03-032908, Glass & Ceramics, 1988, v. 045  p. 0018, 72.0, 6.0, , 0.8, 6.7, , 56230.0
+120, GB10-037724, Handbook of Glass Data, 1985, v. 00B  p. 0245, , , , 55.0, , , 23.99
+121, GB35-038410, Handbook of Glass Data, 1985, v. 00B  p. 0402, , , , , 0.04, , 1500000.0
+122, GB35-038411, Handbook of Glass Data, 1985, v. 00B  p. 0402, , , , , 0.16, , 140000.0
+123, GB35-038412, Handbook of Glass Data, 1985, v. 00B  p. 0402, , , , , 1.18, , 3900.0
+124, GB35-038413, Handbook of Glass Data, 1985, v. 00B  p. 0402, , , , , 7.48, , 59.0
+125, GB35-038414, Handbook of Glass Data, 1985, v. 00B  p. 0402, , , , , 10.85, , 22.0
+126, GB35-038415, Handbook of Glass Data, 1985, v. 00B  p. 0402, , , , , 16.41, , 8.9
+127, GB20-042149, Handbook of Glass Data, 1985, v. 00B  p. 0485, , , , , 50.0, , 0.901
+128, GB20-042150, Handbook of Glass Data, 1985, v. 00B  p. 0485, , , , , 51.92, , 0.779
+129, GB20-042151, Handbook of Glass Data, 1985, v. 00B  p. 0485, , , , , 56.33, , 0.44
+130, GB20-042152, Handbook of Glass Data, 1985, v. 00B  p. 0485, , , , , 60.0, , 0.381
+131, GB20-042153, Handbook of Glass Data, 1985, v. 00B  p. 0485, , , , , 63.64, , 0.358
+132, GB20-042155, Handbook of Glass Data, 1985, v. 00B  p. 0485, , , , , 68.15, , 0.319
+133, GP03-043719, Japanese Patent    Toshiba Corp. (J), 1980, A154340, 65.87, 1.94, 1.64, 4.12, 6.91, , 10000.0
+134, GP03-043723, Japanese Patent    Toshiba Corp. (J), 1980, A154340, 69.89, 3.27, , 1.19, 8.07, , 100000.0
+135, GP03-043729, Japanese Patent    Toshiba Corp. (J), 1981, A154342, 53.58, , , 2.55, 11.54, , 10000.0
+136, GP02-043945, Japanese Patent    Nippon Sheet Glass (J), 1980, A060040, 69.55, 1.22, , , 19.12, , 3162.0
+137, GP03-044057, Japanese Patent, 1980, A047246, 52.33, 3.62, 4.11, 15.01, 11.31, , 1000.0
+138, GJ02-045098, J. American Ceramic Soc., 1979, v. 062  p. 0367, 75.64, , 11.14, 0.76, 12.41, , 173000.0
+139, GP02-049778, Japanese Patent    Kobe Steel (J), 1979, A003822, 61.57, 1.49, 0.75, 2.16, 19.08, , 1000.0
+140, GP02-049779, Japanese Patent    Kobe Steel (J), 1979, A003822, 62.13, 1.77, 0.75, 3.21, 18.46, , 1000.0
+141, GJ02-053998, J. Non-Crystalline Solids, 1981, v. 045  p. 0283, 75.48, 12.47, , , 12.05, , *
+142, GJ03-055396, J. Non-Crystalline Solids, 1981, v. 045  p. 0127, *, *, , *, , , 5.48E7
+143, GB02-056462, Handbook of Glass Data, 1983, v. 00A  p. 0270, 81.0, , , , 19.0, , 8913.0
+144, GB02-056465, Handbook of Glass Data, 1983, v. 00A  p. 0271, *, , , , *, , 1380.0
+145, GB02-056466, Handbook of Glass Data, 1983, v. 00A  p. 0271, *, , , , *, , 691.8
+146, GB02-056469, Handbook of Glass Data, 1983, v. 00A  p. 0272, 75.6, , , , 24.4, , 4600.0
+147, GB02-056470, Handbook of Glass Data, 1983, v. 00A  p. 0272, 70.55, , , , 29.45, , 2500.0
+148, GB02-056471, Handbook of Glass Data, 1983, v. 00A  p. 0272, 65.7, , , , 34.3, , 1420.0
+149, GB02-056472, Handbook of Glass Data, 1983, v. 00A  p. 0272, 61.3, , , , 38.7, , 570.0
+150, GB02-056473, Handbook of Glass Data, 1983, v. 00A  p. 0272, 55.2, , , , 44.8, , 190.0
+151, GB02-056474, Handbook of Glass Data, 1983, v. 00A  p. 0272, 51.8, , , , 48.2, , 43.0
+152, GB02-056477, Handbook of Glass Data, 1983, v. 00A  p. 0272, 48.8, , , , 51.2, , 15.1
+153, GB02-056478, Handbook of Glass Data, 1983, v. 00A  p. 0272, 45.4, , , , 54.6, , 6.3
+154, GB02-056503, Handbook of Glass Data, 1983, v. 00A  p. 0273, 74.4, , , , 25.6, , 2291.0
+155, GB02-056504, Handbook of Glass Data, 1983, v. 00A  p. 0273, 72.8, , , , 27.2, , 2344.0
+156, GB02-056505, Handbook of Glass Data, 1983, v. 00A  p. 0273, 71.6, , , , 28.4, , 1905.0
+157, GB02-056506, Handbook of Glass Data, 1983, v. 00A  p. 0273, 69.4, , , , 30.6, , 1445.0
+158, GB02-056507, Handbook of Glass Data, 1983, v. 00A  p. 0273, 68.2, , , , 31.8, , 1047.0
+159, GB02-056508, Handbook of Glass Data, 1983, v. 00A  p. 0273, 68.1, , , , 31.9, , 831.8
+160, GB02-056509, Handbook of Glass Data, 1983, v. 00A  p. 0274, 67.5, , , , 32.5, , 776.2
+161, GB02-056510, Handbook of Glass Data, 1983, v. 00A  p. 0274, 66.9, , , , 33.1, , 660.7
+162, GB02-056511, Handbook of Glass Data, 1983, v. 00A  p. 0274, 66.4, , , , 33.6, , 645.7
+163, GB02-056512, Handbook of Glass Data, 1983, v. 00A  p. 0274, 65.0, , , , 35.0, , 741.3
+164, GB02-056513, Handbook of Glass Data, 1983, v. 00A  p. 0274, 64.1, , , , 35.9, , 660.7
+165, GB02-056514, Handbook of Glass Data, 1983, v. 00A  p. 0274, 63.6, , , , 36.4, , 631.0
+166, GB02-056515, Handbook of Glass Data, 1983, v. 00A  p. 0274, 62.6, , , , 37.4, , 602.6
+167, GB02-056516, Handbook of Glass Data, 1983, v. 00A  p. 0274, 58.1, , , , 41.9, , 275.4
+168, GB02-056517, Handbook of Glass Data, 1983, v. 00A  p. 0274, 53.4, , , , 46.6, , 66.07
+169, GB02-056519, Handbook of Glass Data, 1983, v. 00A  p. 0274, 79.6, , , , 20.4, , 8511.0
+170, GB02-056520, Handbook of Glass Data, 1983, v. 00A  p. 0274, 75.0, , , , 25.0, , 3467.0
+171, GB02-056521, Handbook of Glass Data, 1983, v. 00A  p. 0274, 70.1, , , , 29.9, , 1738.0
+172, GB02-056522, Handbook of Glass Data, 1983, v. 00A  p. 0274, 65.5, , , , 34.5, , 891.3
+173, GB02-056523, Handbook of Glass Data, 1983, v. 00A  p. 0274, 59.8, , , , 40.2, , 426.6
+174, GB02-056524, Handbook of Glass Data, 1983, v. 00A  p. 0274, 55.6, , , , 44.4, , 123.0
+175, GB02-056526, Handbook of Glass Data, 1983, v. 00A  p. 0275, 67.98, , , , 32.02, , 1550.0
+176, GB02-056527, Handbook of Glass Data, 1983, v. 00A  p. 0275, 67.98, , , , 32.02, , 1300.0
+177, GB02-056528, Handbook of Glass Data, 1983, v. 00A  p. 0275, 67.98, , , , 32.02, , 1160.0
+178, GB02-056529, Handbook of Glass Data, 1983, v. 00A  p. 0275, 67.98, , , , 32.02, , 1400.0
+179, GB02-056530, Handbook of Glass Data, 1983, v. 00A  p. 0275, 67.98, , , , 32.02, , 1200.0
+180, GB02-056531, Handbook of Glass Data, 1983, v. 00A  p. 0275, 67.98, , , , 32.02, , 980.0
+181, GB02-056532, Handbook of Glass Data, 1983, v. 00A  p. 0275, 78.6, , , , 21.4, , 6761.0
+182, GB02-056533, Handbook of Glass Data, 1983, v. 00A  p. 0275, 75.7, , , , 24.3, , 4169.0
+183, GB02-056534, Handbook of Glass Data, 1983, v. 00A  p. 0275, 74.8, , , , 25.2, , 3548.0
+184, GB02-056535, Handbook of Glass Data, 1983, v. 00A  p. 0275, 74.0, , , , 26.0, , 3311.0
+185, GB02-056536, Handbook of Glass Data, 1983, v. 00A  p. 0275, 73.8, , , , 26.2, , 3090.0
+186, GB02-056537, Handbook of Glass Data, 1983, v. 00A  p. 0275, 72.2, , , , 27.8, , 2570.0
+187, GB02-056538, Handbook of Glass Data, 1983, v. 00A  p. 0275, 70.9, , , , 29.1, , 2089.0
+188, GB02-056539, Handbook of Glass Data, 1983, v. 00A  p. 0275, 68.9, , , , 31.1, , 1622.0
+189, GB02-056540, Handbook of Glass Data, 1983, v. 00A  p. 0275, 67.8, , , , 32.2, , 1413.0
+190, GB02-056541, Handbook of Glass Data, 1983, v. 00A  p. 0275, 67.5, , , , 32.5, , 1318.0
+191, GB02-056542, Handbook of Glass Data, 1983, v. 00A  p. 0275, 66.9, , , , 33.1, , 1202.0
+192, GB02-056543, Handbook of Glass Data, 1983, v. 00A  p. 0275, 66.4, , , , 33.6, , 1202.0
+193, GB02-056544, Handbook of Glass Data, 1983, v. 00A  p. 0275, 65.8, , , , 34.2, , 1096.0
+194, GB02-056545, Handbook of Glass Data, 1983, v. 00A  p. 0275, 64.0, , , , 36.0, , 871.0
+195, GB02-056546, Handbook of Glass Data, 1983, v. 00A  p. 0275, 61.0, , , , 39.0, , 549.5
+196, GB02-056551, Handbook of Glass Data, 1983, v. 00A  p. 0276, 66.0, , , , 34.0, , 1202.0
+197, GB02-056552, Handbook of Glass Data, 1983, v. 00A  p. 0277, 78.0, , , , 22.0, , 6900.0
+198, GB02-056553, Handbook of Glass Data, 1983, v. 00A  p. 0277, 76.5, , , , 23.5, , 6360.0
+199, GB02-056554, Handbook of Glass Data, 1983, v. 00A  p. 0277, 73.9, , , , 26.1, , 3400.0
+200, GB02-056555, Handbook of Glass Data, 1983, v. 00A  p. 0277, 73.5, , , , 26.5, , 2450.0
+201, GB02-056556, Handbook of Glass Data, 1983, v. 00A  p. 0277, 70.5, , , , 29.5, , 2200.0
+202, GB02-056557, Handbook of Glass Data, 1983, v. 00A  p. 0277, 68.5, , , , 31.5, , 1880.0
+203, GB02-056558, Handbook of Glass Data, 1983, v. 00A  p. 0277, 66.7, , , , 33.3, , 1190.0
+204, GB02-056559, Handbook of Glass Data, 1983, v. 00A  p. 0277, 65.5, , , , 34.5, , 1070.0
+205, GB02-056560, Handbook of Glass Data, 1983, v. 00A  p. 0277, 64.4, , , , 35.6, , 920.0
+206, GB02-056561, Handbook of Glass Data, 1983, v. 00A  p. 0277, 59.0, , , , 41.0, , 428.0
+207, GB02-056562, Handbook of Glass Data, 1983, v. 00A  p. 0277, 57.2, , , , 42.8, , 292.0
+208, GB02-056563, Handbook of Glass Data, 1983, v. 00A  p. 0277, 53.0, , , , 47.0, , 103.0
+209, GB02-056564, Handbook of Glass Data, 1983, v. 00A  p. 0277, 50.0, , , , 50.0, , 23.8
+210, MP05-060924, US Patent    Bayer (DE), 1988, A4737316, 83.27, 1.21, , , 3.98, , 700000.0
+211, GB02-063431, Handbook of Glass Data, 1983, v. 00A  p. 0279, 67.1, , , , 32.9, , 1202.0
+212, GB02-063432, Handbook of Glass Data, 1983, v. 00A  p. 0279, 69.9, , , , 30.1, , 1778.0
+213, GB02-063433, Handbook of Glass Data, 1983, v. 00A  p. 0279, 80.5, , , , 19.5, , 11220.0
+214, GB02-063443, Handbook of Glass Data, 1983, v. 00A  p. 0279, 63.8, , , , 36.2, , 758.6
+215, GB02-063468, Handbook of Glass Data, 1983, v. 00A  p. 0283, 58.1, , , , 41.9, , 195.0
+216, GB02-063469, Handbook of Glass Data, 1983, v. 00A  p. 0283, 61.1, , , , 38.9, , 426.6
+217, GB02-063470, Handbook of Glass Data, 1983, v. 00A  p. 0283, 62.6, , , , 37.4, , 478.6
+218, GB02-063471, Handbook of Glass Data, 1983, v. 00A  p. 0283, 63.7, , , , 36.3, , 724.4
+219, GB02-063472, Handbook of Glass Data, 1983, v. 00A  p. 0283, 64.2, , , , 35.8, , 955.0
+220, GB02-063473, Handbook of Glass Data, 1983, v. 00A  p. 0283, 65.6, , , , 34.4, , 758.6
+221, GB02-063474, Handbook of Glass Data, 1983, v. 00A  p. 0283, 66.0, , , , 34.0, , 707.9
+222, GB02-063475, Handbook of Glass Data, 1983, v. 00A  p. 0283, 66.2, , , , 33.8, , 602.6
+223, GB02-063476, Handbook of Glass Data, 1983, v. 00A  p. 0283, 66.3, , , , 33.7, , 457.1
+224, GB02-063477, Handbook of Glass Data, 1983, v. 00A  p. 0283, 66.9, , , , 33.1, , 316.2
+225, GB02-063478, Handbook of Glass Data, 1983, v. 00A  p. 0283, 65.21, , , , 34.79, , 436.5
+226, GB02-063479, Handbook of Glass Data, 1983, v. 00A  p. 0283, 67.4, , , , 32.6, , 467.7
+227, GB02-063480, Handbook of Glass Data, 1983, v. 00A  p. 0283, 68.3, , , , 31.7, , 831.8
+228, GB02-063481, Handbook of Glass Data, 1983, v. 00A  p. 0283, 68.4, , , , 31.6, , 955.0
+229, GB02-063482, Handbook of Glass Data, 1983, v. 00A  p. 0283, 56.0, , , , 44.0, , 173.8
+230, GB02-063483, Handbook of Glass Data, 1983, v. 00A  p. 0282, 69.2, , , , 30.8, , 955.0
+231, GB02-063484, Handbook of Glass Data, 1983, v. 00A  p. 0282, 70.7, , , , 29.3, , 1380.0
+232, GB02-063485, Handbook of Glass Data, 1983, v. 00A  p. 0282, 72.3, , , , 27.7, , 1445.0
+233, GB02-063486, Handbook of Glass Data, 1983, v. 00A  p. 0282, 72.5, , , , 27.5, , 1778.0
+234, GB02-063487, Handbook of Glass Data, 1983, v. 00A  p. 0282, 73.7, , , , 26.3, , 1698.0
+235, GB02-063488, Handbook of Glass Data, 1983, v. 00A  p. 0282, 75.0, , , , 25.0, , 1778.0
+236, GB02-063489, Handbook of Glass Data, 1983, v. 00A  p. 0282, 76.2, , , , 23.8, , 1905.0
+237, GB02-063490, Handbook of Glass Data, 1983, v. 00A  p. 0282, 76.6, , , , 23.4, , 2089.0
+238, GB02-063491, Handbook of Glass Data, 1983, v. 00A  p. 0282, 77.4, , , , 22.6, , 3311.0
+239, GB02-063492, Handbook of Glass Data, 1983, v. 00A  p. 0282, 77.6, , , , 22.4, , 2630.0
+240, GB02-063493, Handbook of Glass Data, 1983, v. 00A  p. 0282, 77.8, , , , 22.2, , 3548.0
+241, GB02-063494, Handbook of Glass Data, 1983, v. 00A  p. 0282, 78.3, , , , 21.7, , 4571.0
+242, GB02-063495, Handbook of Glass Data, 1983, v. 00A  p. 0282, 69.0, , , , 31.0, , 1072.0
+243, GB02-071229, Handbook of Glass Data, 1983, v. 00A  p. 0288, 59.3, , , , 40.7, , 363.1
+244, GB02-071230, Handbook of Glass Data, 1983, v. 00A  p. 0288, 63.8, , , , 36.2, , 871.0
+245, GB02-071231, Handbook of Glass Data, 1983, v. 00A  p. 0288, 66.4, , , , 33.6, , 1288.0
+246, GB02-071232, Handbook of Glass Data, 1983, v. 00A  p. 0288, 69.0, , , , 31.0, , 1905.0
+247, GB02-071233, Handbook of Glass Data, 1983, v. 00A  p. 0288, 74.9, , , , 25.1, , 4365.0
+248, GB02-071234, Handbook of Glass Data, 1983, v. 00A  p. 0288, 80.2, , , , 19.8, , 10000.0
+249, GJ35-072893, Physics and Chemistry of  Glasses, 1960, v. 001  p. 0019, , , , , 0.04, , 1500000.0
+250, GJ35-072894, Physics and Chemistry of  Glasses, 1960, v. 001  p. 0019, , , , , 0.16, , 140000.0
+251, GJ35-072895, Physics and Chemistry of  Glasses, 1960, v. 001  p. 0019, , , , , 1.18, , 3900.0
+252, GJ35-072896, Physics and Chemistry of  Glasses, 1960, v. 001  p. 0019, , , , , 7.48, , 59.0
+253, GJ35-072897, Physics and Chemistry of  Glasses, 1960, v. 001  p. 0019, , , , , 10.85, , 22.0
+254, GJ35-072898, Physics and Chemistry of  Glasses, 1960, v. 001  p. 0019, , , , , 16.41, , 8.9
+255, MP06-073915, European Patent    Corning Inc. (US), 1986, A0205262, 53.28, 17.29, 9.5, , 12.72, , 130000.0
+256, GP05-083370, US Patent, 1986, A4591455, 83.27, 1.21, , , 3.98, , 700000.0
+257, GP05-086456, US Patent, 1982, A4312952, 61.98, 0.88, 5.16, 9.65, 15.26, , 1000.0
+258, GP05-086457, US Patent, 1982, A4312952, 59.53, 0.89, 5.24, 9.8, 15.5, , 1000.0
+259, GB02-088679, Technical Glasses, 1961, v. 001  p. 0105, 77.83, 3.11, , 2.11, 9.53, , 50120.0
+260, GB05-088748, Technical Glasses, 1961, v. 001  p. 0123, 79.5, 3.72, , 1.26, 6.64, , 251200.0
+261, GB05-089082, Technical Glasses, 1961, v. 001  p. 0344, 78.19, 3.07, , 1.67, 7.07, , 63100.0
+262, GB05-089130, Technical Glasses, 1961, v. 001  p. 0354, 76.1, 1.53, , 1.16, 1.79, , 100000.0
+263, GB05-089167, Technical Glasses, 1961, v. 001  p. 0388, 74.07, 0.55, , 0.33, 1.51, , 158500.0
+264, GJ02-091323, Glass Physics & Chemistry, 1987, v. 013  p. 0326, 73.03, , , 13.75, 13.21, , 10710.0
+265, GB02-095853, Properties of Glass, 1954, v. 001  p. 0159, 45.37, , , , 54.63, , 6.3
+266, GB02-095854, Properties of Glass, 1954, v. 001  p. 0159, 48.77, , , , 51.22, , 15.1
+267, GB02-095857, Properties of Glass, 1954, v. 001  p. 0159, 51.77, , , , 48.22, , 43.0
+268, GB02-095858, Properties of Glass, 1954, v. 001  p. 0159, 55.17, , , , 44.83, , 190.0
+269, GB02-095859, Properties of Glass, 1954, v. 001  p. 0159, 61.34, , , , 38.66, , 570.0
+270, GB02-095860, Properties of Glass, 1954, v. 001  p. 0159, 65.7, , , , 34.29, , 1420.0
+271, GB02-095861, Properties of Glass, 1954, v. 001  p. 0159, 66.5, , , , 33.5, , 1490.0
+272, GB02-095862, Properties of Glass, 1954, v. 001  p. 0159, 70.55, , , , 29.45, , 2500.0
+273, GB02-095863, Properties of Glass, 1954, v. 001  p. 0159, 75.58, , , , 24.42, , 4600.0
+274, GB02-095877, Properties of Glass, 1954, v. 001  p. 0160, 67.09, , , , 32.91, , 1202.0
+275, GB02-095878, Properties of Glass, 1954, v. 001  p. 0160, 69.86, , , , 30.14, , 1738.0
+276, GB02-095879, Properties of Glass, 1954, v. 001  p. 0160, 80.49, , , , 19.5, , 11220.0
+277, GP05-100624, Japanese Patent, 1989, A028246, 30.44, 5.42, 10.49, , 15.86, , 0.03
+278, GP05-100625, Japanese Patent, 1989, A028246, 29.95, 3.3, 12.84, , 16.71, , 0.03
+279, GP05-100626, Japanese Patent, 1989, A028246, 32.32, 2.85, 9.63, , 15.77, , 0.02
+280, GP05-100677, Japanese Patent, 1989, A028382, 32.32, 2.85, 9.63, , 15.77, , 0.02
+281, GP05-100678, Japanese Patent, 1989, A028382, 30.44, 5.42, 10.49, , 15.86, , 0.03
+282, GP05-100679, Japanese Patent, 1989, A028383, 30.44, 5.42, 10.49, , 15.86, , 0.03
+283, GP05-100680, Japanese Patent, 1989, A028383, 29.95, 3.3, 12.84, , 16.71, , 0.03
+284, GP05-101670, Japanese Patent    Corning Inc. (US), 1989, A157430, 41.89, , , 11.88, 1.91, , 32.0
+285, GP06-101742, Japanese Patent    Corning Inc. (US), 1989, A160844, 65.05, 10.43, 2.43, 4.91, , , 2200000.0
+286, GP05-101745, Japanese Patent    Corning Inc. (US), 1989, A160844, 65.05, 9.2, 2.44, , , , 2200000.0
+287, GP06-104342, Japanese Patent, 1990, A258650, 58.6, 12.42, 18.39, 6.05, 0.99, , 1000000.0
+288, GP02-104343, Japanese Patent, 1990, A258650, 71.48, 0.69, 4.87, 9.33, 13.62, , 10000.0
+289, GP05-105031, US Patent    Corning Inc. (US), 1989, A4824808, 65.03, 10.43, 2.45, 4.91, , , 2200000.0
+290, GP05-105034, US Patent    Corning Inc. (US), 1989, A4824808, 65.03, 9.2, 2.45, , , , 2200000.0
+291, GP05-105136, US Patent    Corning Inc. (US), 1989, A4839314, 41.89, , , 11.88, 1.91, , 32.0
+292, GP05-107303, European Patent    Corning Inc. (US), 1989, A0316089, 53.0, 15.0, 2.0, , , , 2200000.0
+293, GP05-107306, European Patent    Corning Inc. (US), 1989, A0316089, 53.0, 17.0, 2.0, 4.0, , , 2200000.0
+294, GJ06-112856, J. Ceramic Soc. Japan, 1990, v. 098  p. 1070, 69.17, 8.73, 22.09, , , , 1.0E9
+295, GI02-114221, Fall Meeting Ceram. Soc. Japan (J), 1989, v. 002  p. 0356, 66.67, , , , 20.0, , 316.228
+296, GI02-114222, Fall Meeting Ceram. Soc. Japan (J), 1989, v. 002  p. 0356, 66.67, , , , 18.0, , 354.813
+297, GI02-114223, Fall Meeting Ceram. Soc. Japan (J), 1989, v. 002  p. 0356, 66.67, , , , 16.0, , 398.107
+298, GI02-114224, Fall Meeting Ceram. Soc. Japan (J), 1989, v. 002  p. 0356, 66.67, , , , 14.0, , 398.107
+299, GI02-114225, Fall Meeting Ceram. Soc. Japan (J), 1989, v. 002  p. 0356, 66.67, , , , 12.0, , 501.187
+300, GI02-114226, Fall Meeting Ceram. Soc. Japan (J), 1989, v. 002  p. 0356, 66.67, , , , 10.0, , 562.341
+301, GI02-114227, Fall Meeting Ceram. Soc. Japan (J), 1989, v. 002  p. 0356, 66.67, , , , 8.0, , 630.957
+302, GP04-120212, US Patent    Corning Inc. (US), 1991, A5034354, 61.86, , 3.94, , , , 3000.0
+303, GP04-120213, US Patent    Corning Inc. (US), 1991, A5034354, 57.85, , , 10.06, , , 10000.0
+304, GP02-121103, European Patent    Saint-Gobain (FR), 1991, A0412878, *, *, *, *, *, , 1000.0
+305, GP05-124716, US Patent    Corning Inc. (US), 1992, A5116787, 64.83, 9.89, , 13.77, , , 1300000.0
+306, GP05-124722, US Patent    Corning Inc. (US), 1992, A5116787, 65.92, 9.88, , 13.76, , , 260000.0
+307, GP03-124723, US Patent    Corning Inc. (US), 1992, A5116787, 64.83, 9.89, , 13.77, , , 1300000.0
+308, GP03-124733, US Patent    Corning Inc. (US), 1992, A5116787, 65.91, 9.88, , 13.76, , , 260000.0
+309, GP06-124734, US Patent    Corning Inc. (US), 1992, A5116789, 63.59, 7.49, , , , , 1800000.0
+310, GP03-127283, Japanese Patent    Corning Inc. (US), 1993, A193980, 64.83, 9.89, , 13.77, , , 1300000.0
+311, GP03-127289, Japanese Patent    Corning Inc. (US), 1993, A193980, 65.92, 9.88, , 13.76, , , 260000.0
+312, GP03-127480, Japanese Patent    Corning Inc. (US), 1993, A213627, 63.36, 8.02, , , , , 1800000.0
+313, GP03-127483, Japanese Patent    Corning Inc. (US), 1993, A213627, 64.98, 9.91, , 13.8, , , 130000.0
+314, GP03-127554, Japanese Patent    Corning Inc. (US), 1993, A232458, 63.59, 7.49, , , , , 1800000.0
+315, GP05-127918, Japanese Patent    NGK Insulators (J), 1993, A279075, 80.0, 3.0, 4.0, , , , 1000000.0
+316, GP05-127919, Japanese Patent    NGK Insulators (J), 1993, A279075, 60.0, 2.0, , , , , 30000.0
+317, GP05-127920, Japanese Patent    NGK Insulators (J), 1993, A279075, 56.07, 4.67, 9.35, , , , 90000.0
+318, GP05-127921, Japanese Patent    NGK Insulators (J), 1993, A279075, 48.78, 0.49, 1.95, , , , 50000.0
+319, GP03-129284, European Patent    Corning Inc. (US), 1993, A0527320, 63.59, 7.49, , , , , 1800000.0
+320, GP03-129330, European Patent    Corning Inc. (US), 1993, A0528114, 65.91, 9.88, , 13.76, , , 260000.0
+321, GP03-129337, European Patent    Corning Inc. (US), 1993, A0528149, 63.36, 8.02, , , , , 1800000.0
+322, GP03-129340, European Patent    Corning Inc. (US), 1993, A0528149, 64.98, 9.91, , 13.8, , , 130000.0
+323, GB10-130640, Handbook of Glass Data, 1991, v. 00D  p. 0052, , , , 3.6, , , 14.45
+324, GB10-130641, Handbook of Glass Data, 1991, v. 00D  p. 0052, , , , 4.2, , , 10.23
+325, GB10-130642, Handbook of Glass Data, 1991, v. 00D  p. 0052, , , , 9.3, , , 10.47
+326, GB10-130644, Handbook of Glass Data, 1991, v. 00D  p. 0052, , , , 12.0, , , 10.96
+327, GB10-130645, Handbook of Glass Data, 1991, v. 00D  p. 0052, , , , 15.2, , , 12.59
+328, GB10-130646, Handbook of Glass Data, 1991, v. 00D  p. 0052, , , , 15.3, , , 11.22
+329, GB10-130647, Handbook of Glass Data, 1991, v. 00D  p. 0052, , , , 18.8, , , 12.3
+330, GB10-130648, Handbook of Glass Data, 1991, v. 00D  p. 0052, , , , 21.3, , , 15.14
+331, GB10-130649, Handbook of Glass Data, 1991, v. 00D  p. 0052, , , , 24.8, , , 13.18
+332, GB10-130650, Handbook of Glass Data, 1991, v. 00D  p. 0052, , , , 27.4, , , 13.49
+333, GB10-131709, Handbook of Glass Data, 1991, v. 00D  p. 0116, , , , , 34.38, , 1.76
+334, GB10-131710, Handbook of Glass Data, 1991, v. 00D  p. 0116, , , , , 31.69, , 2.43
+335, GB10-131712, Handbook of Glass Data, 1991, v. 00D  p. 0117, , , , , 49.9, , 0.209
+336, GB10-131713, Handbook of Glass Data, 1991, v. 00D  p. 0117, , , , , 48.66, , 0.267
+337, GB10-131714, Handbook of Glass Data, 1991, v. 00D  p. 0117, , , , , 47.48, , 0.314
+338, GB10-131983, Handbook of Glass Data, 1991, v. 00D  p. 0135, , , , , 2.5, , 27.0
+339, GB02-138850, Handbook of Glass Data, 1993, v. 00E  p. 0444, 74.81, , , 10.69, 14.5, , 3388.4
+340, GB02-138866, Handbook of Glass Data, 1993, v. 00E  p. 0448, 73.03, , , 13.75, 13.21, , 6607.0
+341, GB20-139677, Handbook of Glass Data, 1993, v. 00E  p. 0553, , , , 50.0, , , 169.8
+342, GB03-139678, Handbook of Glass Data, 1993, v. 00E  p. 0553, 5.0, , , 47.5, , , 112.2
+343, GB03-139679, Handbook of Glass Data, 1993, v. 00E  p. 0553, 10.0, , , 45.0, , , 95.5
+344, GB03-139680, Handbook of Glass Data, 1993, v. 00E  p. 0553, 15.0, , , 42.5, , , 81.28
+345, GB03-139681, Handbook of Glass Data, 1993, v. 00E  p. 0553, 20.0, , , 40.0, , , 107.2
+346, GB03-139682, Handbook of Glass Data, 1993, v. 00E  p. 0553, 25.0, , , 37.5, , , 204.2
+347, GB03-139683, Handbook of Glass Data, 1993, v. 00E  p. 0553, 30.0, , , 35.0, , , 467.7
+348, GB20-139684, Handbook of Glass Data, 1993, v. 00E  p. 0553, , , , 54.5, , , 67.61
+349, GB03-139685, Handbook of Glass Data, 1993, v. 00E  p. 0553, 5.0, , , 51.8, , , 58.88
+350, GB03-139686, Handbook of Glass Data, 1993, v. 00E  p. 0553, 10.0, , , 49.1, , , 54.95
+351, GB03-139687, Handbook of Glass Data, 1993, v. 00E  p. 0553, 15.0, , , 46.4, , , 51.29
+352, GB03-139688, Handbook of Glass Data, 1993, v. 00E  p. 0553, 20.0, , , 43.6, , , 63.1
+353, GB03-139689, Handbook of Glass Data, 1993, v. 00E  p. 0553, 25.0, , , 40.9, , , 87.1
+354, GB03-139690, Handbook of Glass Data, 1993, v. 00E  p. 0553, 30.0, , , 38.2, , , 154.9
+355, GJ03-141253, J. Materials Science, 1992, v. 027  p. 6747, 61.24, 4.76, , , , , 1288000.0
+356, GJ03-141254, J. Materials Science, 1992, v. 027  p. 6747, 59.81, 6.98, , , , , 9772000.0
+357, GJ03-141255, J. Materials Science, 1992, v. 027  p. 6747, 58.45, 9.09, , , , , 6918000.0
+358, GJ05-143977, Glass Physics & Chemistry, 1991, v. 017  p. 0425, 77.52, , , , 19.38, , 6310.0
+359, GC02-144885, Saint-Gobain (FR), 1993, 03643, 69.86, 0.34, 5.99, 10.07, 12.91, 0.22, 13180.0
+360, GC02-144886, Saint-Gobain (FR), 1992, 03470, 69.75, 0.37, 5.86, 10.13, 13.07, 0.19, 12020.0
+361, GC02-144887, Saint-Gobain (FR), 1993, 03642, 70.71, 0.31, 5.66, 9.09, 13.4, 0.16, 11750.0
+362, GC02-144888, Saint-Gobain (FR), 1992, 03544, 71.84, 0.46, 4.19, 11.58, 11.63, 0.11, 21880.0
+363, GC02-144889, Saint-Gobain (FR), 1986, 02557, 71.3, 0.58, 3.53, 12.18, 12.27, 0.11, 19050.0
+364, GC02-144890, Saint-Gobain (FR), 1993, 03629, 74.24, 0.85, 0.37, 12.26, 11.87, 0.1, 22910.0
+365, GC02-144891, Saint-Gobain (FR), 1993, 03648, 70.76, 1.14, 4.0, 10.66, 12.72, 0.02, 19050.0
+366, GC02-144892, Saint-Gobain (FR), 1993, 03588, 71.74, 1.24, 1.65, 10.98, 13.44, 0.01, 17780.0
+367, GC05-144893, Saint-Gobain (FR), 1980, 02256, 73.66, 3.69, , 1.25, 8.55, 0.02, 25120.0
+368, GC02-144894, Saint-Gobain (FR), 1984, 02467, 62.74, 3.94, 0.63, 5.71, 11.42, 0.05, 3548.0
+369, GC03-144895, Saint-Gobain (FR), 1983, 02418, 56.41, 8.35, 0.77, 25.0, 0.5, 0.04, 53700.0
+370, GC02-144898, Saint-Gobain (FR), 1988, 03222, 64.21, 2.08, 4.52, 7.92, 15.71, 0.17, 2818.0
+371, GJ03-145033, Glass Technology, 1992, v. 033  p. 0049, 50.89, 10.56, 8.35, 12.11, 3.91, 0.01, 1.0E10
+372, GJ03-145035, Glass Technology, 1992, v. 033  p. 0049, 53.22, 10.26, 6.35, 10.75, 5.3, 0.01, 1.0E10
+373, GJ02-146368, J. Ceramic Soc. Japan, 1991, v. 099  p. 0168, 66.67, , , , 16.67, , 200.0
+374, GJ02-146369, J. Ceramic Soc. Japan, 1991, v. 099  p. 0168, 66.67, , , , 20.0, , 300.0
+375, GJ02-146370, J. Ceramic Soc. Japan, 1991, v. 099  p. 0168, 66.67, , , , 23.33, , 3000.0
+376, GJ02-146371, J. Ceramic Soc. Japan, 1991, v. 099  p. 0168, 66.67, , , , 26.67, , 500.0
+377, GJ02-146372, J. Ceramic Soc. Japan, 1991, v. 099  p. 0168, 66.67, , , , 33.33, , 1000.0
+378, CJ04-147326, J. American Ceramic Soc., 1992, v. 075  p. 2071, 53.23, 5.33, , , , , *
+379, CJ04-147327, J. American Ceramic Soc., 1992, v. 075  p. 2071, 53.23, 5.33, , , , , *
+380, CJ04-147328, J. American Ceramic Soc., 1992, v. 075  p. 2071, 53.23, 5.33, , , , , *
+381, GI06-152429R, NGF's Additional New Data (J), 2000, v. 002  p. 0001, 40.07, 14.93, , 14.86, 15.07, , 90600.0
+382, GI02-152431R, NGF's Additional New Data (J), 2000, v. 002  p. 0001, 60.07, 9.89, , 10.03, 9.83, , 43500.0
+383, GI02-152434R, NGF's Additional New Data (J), 2000, v. 002  p. 0003, 75.02, 3.01, , , , , 8160.0
+384, GI02-152435R, NGF's Additional New Data (J), 2000, v. 002  p. 0003, 62.54, 4.36, , 11.64, 14.98, , 9820.0
+385, GI05-152438R, NGF's Additional New Data (J), 2000, v. 002  p. 0003, 78.73, , , , 3.87, , 52900.0
+386, GI05-152439R, NGF's Additional New Data (J), 2000, v. 002  p. 0003, 75.72, 5.12, , 1.02, 6.62, , 140000.0
+387, GI06-152441R, NGF's Additional New Data (J), 2000, v. 002  p. 0003, 67.41, 6.11, 8.61, 5.69, 5.05, , 344000.0
+388, GI05-152442R, NGF's Additional New Data (J), 2000, v. 002  p. 0005, 50.5, , , 9.83, 10.34, , 608.0
+389, GI05-152443R, NGF's Additional New Data (J), 2000, v. 002  p. 0005, 52.45, 10.61, , , 10.42, , 1100.0
+390, GI06-152444R, NGF's Additional New Data (J), 2000, v. 002  p. 0007, 63.2, 9.86, 5.17, , 10.72, , 13100.0
+391, GI06-152445, NGF's Additional New Data (J), 2001, v. 004  p. 0001, 66.02, 9.87, , , , , 113000.0
+392, GI06-152446R, NGF's Additional New Data (J), 2001, v. 004  p. 0001, 65.94, 15.68, , 0.01, , , 31900.0
+393, GI06-152452R, NGF's Additional New Data (J), 2001, v. 004  p. 0001, 65.08, 15.19, , , 7.81, , 313000.0
+394, GI06-152454R, NGF's Additional New Data (J), 2001, v. 004  p. 0001, 65.28, 14.96, , 4.96, 7.61, , 336000.0
+395, GI06-152455R, NGF's Additional New Data (J), 2001, v. 004  p. 0001, 65.0, 15.12, , , 7.54, , 241000.0
+396, GI03-152456, NGF's Additional New Data (J), 2001, v. 004  p. 0003, 64.97, 4.9, , , 5.79, , 13800.0
+397, GI03-152457R, NGF's Additional New Data (J), 2001, v. 004  p. 0003, 64.5, 4.93, , , 5.97, , 23500.0
+398, GI03-152458R, NGF's Additional New Data (J), 2001, v. 004  p. 0003, 63.42, 4.85, , 4.87, 6.54, , 16600.0
+399, GI03-152459R, NGF's Additional New Data (J), 2001, v. 004  p. 0003, 64.14, 4.97, , 10.24, 5.81, , 19900.0
+400, GI03-152460R, NGF's Additional New Data (J), 2001, v. 004  p. 0003, 63.95, 4.97, 0.1, 9.93, 6.19, , 24800.0
+401, GI03-152461R, NGF's Additional New Data (J), 2001, v. 004  p. 0003, 64.22, 4.96, 0.22, 20.1, 5.62, , 39200.0
+402, GI03-152462R, NGF's Additional New Data (J), 2001, v. 004  p. 0003, 64.17, 5.02, 4.57, 10.49, 5.8, , 40400.0
+403, GI03-152463R, NGF's Additional New Data (J), 2001, v. 004  p. 0003, 64.45, 4.95, 4.71, , 6.06, , 37900.0
+404, GI03-152465R, NGF's Additional New Data (J), 2001, v. 004  p. 0003, 56.01, 7.46, , , 4.9, , 4930.0
+405, GI03-152466R, NGF's Additional New Data (J), 2001, v. 004  p. 0003, 58.71, 6.98, 2.5, 24.6, 4.93, , 98000.0
+406, GI03-152467, NGF's Additional New Data (J), 2001, v. 004  p. 0003, 58.91, 7.02, 2.24, 24.34, 0.04, , 848000.0
+407, GI03-152468R, NGF's Additional New Data (J), 2001, v. 004  p. 0003, 58.57, 7.02, 2.72, 24.07, 2.62, , 180000.0
+408, GI02-152471R, NGF's Additional New Data (J), 2001, v. 004  p. 0005, 57.36, 11.87, , , 11.47, , 24300.0
+409, GI02-152472R, NGF's Additional New Data (J), 2001, v. 004  p. 0005, 49.9, 10.04, , 9.91, 15.14, , 9170.0
+410, GI02-152473, NGF's Additional New Data (J), 2001, v. 004  p. 0005, 50.02, 15.17, , 4.83, 15.12, , 324000.0
+411, GI02-152475R, NGF's Additional New Data (J), 2001, v. 004  p. 0005, 69.99, 9.98, , , 10.23, , 183000.0
+412, GJ02-153038, Glass Science and Technology, 1994, v. 067  p. 0189, 70.46, 1.15, 5.3, 9.47, 12.88, 0.17, 9506.0
+413, GJ02-153039, Glass Science and Technology, 1994, v. 067  p. 0189, 72.03, 0.86, 5.72, 7.97, 12.88, 0.15, 12500.0
+414, GJ02-153040, Glass Science and Technology, 1994, v. 067  p. 0189, 71.51, 0.2, 5.76, 9.11, 12.98, 0.16, 8954.0
+415, GJ02-153041, Glass Science and Technology, 1994, v. 067  p. 0189, 71.63, 0.1, 5.4, 9.0, 13.36, 0.16, 8472.0
+416, GJ02-161814, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 66.67, , , , 3.33, , 234.4
+417, GJ02-161815, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 66.67, , , , 6.67, , 245.5
+418, GJ02-161816, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 66.67, , , , 10.0, , 245.5
+419, GJ02-161817, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 66.67, , , , 13.33, , 234.4
+420, GJ02-161818, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 66.67, , , , 16.67, , 223.9
+421, GJ02-161819, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 66.67, , , , 20.0, , 302.0
+422, GJ02-161820, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 66.67, , , , 23.33, , 346.7
+423, GJ02-161821, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 66.67, , , , 26.67, , 407.4
+424, GJ02-161822, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 66.67, , , , 30.0, , 602.6
+425, GJ02-161823, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 66.67, , , , 33.33, , 1148.0
+426, GJ02-161824, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 66.67, , , , 18.0, , 141.3
+427, GJ02-161825, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 66.67, , , , 16.0, , 158.5
+428, GJ02-161826, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 66.67, , , , 14.0, , 166.0
+429, GJ02-161827, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 66.67, , , , 12.0, , 186.2
+430, GJ02-161828, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 66.67, , , , 10.0, , 199.5
+431, GJ02-161829, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 66.67, , , , 8.0, , 263.0
+432, GJ02-161830, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 66.67, , , , 6.0, , 331.1
+433, GJ02-161831, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 66.45, , , , 4.32, , 389.0
+434, GJ02-161832, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 66.67, , , , 2.0, , 524.8
+435, GJ02-161835, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 60.0, , , , 4.0, , 123.0
+436, GJ02-161836, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 60.0, , , , 8.0, , 128.8
+437, GJ02-161837, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 60.0, , , , 12.0, , 93.33
+438, GJ02-161838, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 60.0, , , , 16.0, , 95.5
+439, GJ02-161839, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 60.0, , , , 20.0, , 114.8
+440, GJ02-161840, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 60.0, , , , 24.0, , 131.8
+441, GJ02-161841, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 60.0, , , , 28.0, , 166.0
+442, GJ02-161842, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 60.0, , , , 32.0, , 204.2
+443, GJ02-161843, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 60.0, , , , 36.0, , 263.0
+444, GJ02-161844, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 60.0, , , , 40.0, , 426.6
+445, GJ02-161845, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 60.0, , , , 21.6, , 154.9
+446, GJ02-161846, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 60.0, , , , 19.2, , 169.8
+447, GJ02-161847, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 60.0, , , , 16.8, , 186.2
+448, GJ02-161848, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 60.0, , , , 14.4, , 190.5
+449, GJ02-161849, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 60.0, , , , 12.0, , 195.0
+450, GJ02-161850, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 60.0, , , , 9.6, , 316.2
+451, GJ02-161851, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 60.0, , , , 7.2, , 398.1
+452, GJ02-161852, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 60.0, , , , 4.8, , 478.6
+453, GJ02-161853, J. Non-Crystalline Solids, 1995, v. 188  p. 0136, 60.0, , , , 2.4, , 891.3
+454, GB02-164908, Fundamentals of Inorganic Glasses, 1994, v. 001  p. 0199, 73.82, , 2.97, , 23.21, , 5000.0
+455, GB02-164909, Fundamentals of Inorganic Glasses, 1994, v. 001  p. 0199, 73.06, , 5.89, , 21.06, , 8500.0
+456, GB02-164910, Fundamentals of Inorganic Glasses, 1994, v. 001  p. 0199, 72.31, , 8.74, , 18.95, , 16000.0
+457, GB02-164911, Fundamentals of Inorganic Glasses, 1994, v. 001  p. 0199, 75.17, 1.2, , , 23.64, , 3500.0
+458, GB02-164912, Fundamentals of Inorganic Glasses, 1994, v. 001  p. 0199, 75.75, 2.41, , , 21.83, , 5000.0
+459, GB02-164913, Fundamentals of Inorganic Glasses, 1994, v. 001  p. 0199, 76.35, 3.65, , , 20.01, , 7000.0
+460, GB02-164914, Fundamentals of Inorganic Glasses, 1994, v. 001  p. 0199, 76.95, 4.9, , , 18.15, , 12000.0
+461, GB02-164915, Fundamentals of Inorganic Glasses, 1994, v. 001  p. 0199, 74.44, , , 2.16, 23.41, , 3000.0
+462, GB02-164916, Fundamentals of Inorganic Glasses, 1994, v. 001  p. 0199, 74.29, , , 4.3, 21.41, , 3500.0
+463, GB02-164917, Fundamentals of Inorganic Glasses, 1994, v. 001  p. 0199, 74.13, , , 6.44, 19.43, , 5000.0
+464, GB02-164918, Fundamentals of Inorganic Glasses, 1994, v. 001  p. 0199, 73.98, , , 8.57, 17.45, , 7000.0
+465, GB02-164919, Fundamentals of Inorganic Glasses, 1994, v. 001  p. 0199, 74.59, , , , 25.41, , 3000.0
+466, GJ02-171686, J. Materials Science, 1997, v. 032  p. 6561, 68.3, 5.07, , , , , 63100.0
+467, GJ02-171688, J. Materials Science, 1997, v. 032  p. 6561, 66.77, 16.62, , , , , 1.0E7
+468, GJ02-174315, J. Ceramic Soc. Japan, 1997, v. 105  p. 0827, 75.0, , , , 25.0, , 3548.0
+469, GJ02-174316, J. Ceramic Soc. Japan, 1997, v. 105  p. 0827, 70.0, 5.0, , , 25.0, , 7244.0
+470, GJ02-174317, J. Ceramic Soc. Japan, 1997, v. 105  p. 0827, 67.5, 7.5, , , 25.0, , 10000.0
+471, GJ02-174318, J. Ceramic Soc. Japan, 1997, v. 105  p. 0827, 65.0, 10.0, , , 25.0, , 15850.0
+472, GJ02-174319, J. Ceramic Soc. Japan, 1997, v. 105  p. 0827, 75.0, , , , 18.75, , 3311.0
+473, GJ02-174320, J. Ceramic Soc. Japan, 1997, v. 105  p. 0827, 70.0, 5.0, , , 18.75, , 7413.0
+474, GJ02-174321, J. Ceramic Soc. Japan, 1997, v. 105  p. 0827, 67.5, 7.5, , , 18.75, , 14130.0
+475, GJ02-174322, J. Ceramic Soc. Japan, 1997, v. 105  p. 0827, 65.0, 10.0, , , 18.75, , 25120.0
+476, GJ02-174323, J. Ceramic Soc. Japan, 1997, v. 105  p. 0827, 75.0, , , , 12.5, , 3715.0
+477, GJ02-174324, J. Ceramic Soc. Japan, 1997, v. 105  p. 0827, 70.0, 5.0, , , 12.5, , 10000.0
+478, GJ02-174325, J. Ceramic Soc. Japan, 1997, v. 105  p. 0827, 67.5, 7.5, , , 12.5, , 19950.0
+479, GJ02-174326, J. Ceramic Soc. Japan, 1997, v. 105  p. 0827, 65.0, 10.0, , , 12.5, , 39810.0
+480, GJ02-174327, J. Ceramic Soc. Japan, 1997, v. 105  p. 0827, 75.0, , , , 6.25, , 4786.0
+481, GJ02-174328, J. Ceramic Soc. Japan, 1997, v. 105  p. 0827, 70.0, 5.0, , , 6.25, , 19950.0
+482, GJ02-174329, J. Ceramic Soc. Japan, 1997, v. 105  p. 0827, 67.5, 7.5, , , 6.25, , 39810.0
+483, GJ02-174330, J. Ceramic Soc. Japan, 1997, v. 105  p. 0827, 65.0, 10.0, , , 6.25, , 79430.0
+484, GJ02-174332, J. Ceramic Soc. Japan, 1997, v. 105  p. 0827, 70.0, 5.0, , , , , 63100.0
+485, GJ02-174333, J. Ceramic Soc. Japan, 1997, v. 105  p. 0827, 67.5, 7.5, , , , , 158500.0
+486, GJ02-174334, J. Ceramic Soc. Japan, 1997, v. 105  p. 0827, 65.0, 10.0, , , , , 398100.0
+487, GP03-181439, Japanese Patent, 1998, A194771, 63.62, 2.51, 7.95, 9.13, 4.65, 0.17, 36980.0
+488, GI06-190625R, NGF's Additional New Data (J), 2000, v. 002  p. 0001, 62.65, 9.88, 5.27, , 10.23, , 9830.0
+489, GI02-190646R, NGF's Additional New Data (J), 2000, v. 002  p. 0003, 59.68, 4.37, 14.58, , 13.98, , 15400.0
+490, GI02-190647R, NGF's Additional New Data (J), 2000, v. 002  p. 0003, 60.68, 4.23, , 11.25, 22.39, , 4570.0
+491, GI02-190649R, NGF's Additional New Data (J), 2000, v. 002  p. 0003, 64.31, 4.82, , , 23.22, , 6290.0
+492, GI02-190650R, NGF's Additional New Data (J), 2000, v. 002  p. 0003, 65.71, 4.74, , , 15.59, , 11700.0
+493, GI02-190651R, NGF's Additional New Data (J), 2000, v. 002  p. 0003, 65.29, 4.64, , , 24.01, , 5820.0
+494, GI02-190652R, NGF's Additional New Data (J), 2000, v. 002  p. 0003, 67.29, 4.79, , , 15.75, , 11100.0
+495, GI02-190748R, NGF's Additional New Data (J), 2000, v. 002  p. 0007, 58.47, 3.96, 13.43, , 22.12, , 9820.0
+496, GI05-191770R, NGF's Additional New Data (J), 2001, v. 004  p. 0005, 78.92, , , , 3.83, , 272000.0
+497, GI05-191771R, NGF's Additional New Data (J), 2001, v. 004  p. 0005, 74.27, 3.18, , 1.16, 7.15, , 64400.0
+498, GI05-191772R, NGF's Additional New Data (J), 2001, v. 004  p. 0005, 78.49, 1.86, , 2.24, 6.67, , 108000.0
+499, GI03-191790R, NGF's Additional New Data (J), 2001, v. 004  p. 0005, 39.92, 9.9, , 50.18, , , 627000.0
+500, GI03-191820R, NGF's Additional New Data (J), 2001, v. 004  p. 0007, 70.82, 3.06, , 15.06, 9.83, , 162000.0
+501, GI03-191824R, NGF's Additional New Data (J), 2001, v. 004  p. 0007, 68.53, 3.24, , , 9.99, , 16900.0
+502, GI05-191836, NGF's Additional New Data (J), 2001, v. 004  p. 0007, 15.85, 0.44, , 12.96, , , 29.9
+503, GI02-191861, NGF's Additional New Data (J), 2001, v. 004  p. 0009, 68.14, , , 1.03, 7.69, , 5130.0
+504, GI02-191862R, NGF's Additional New Data (J), 2001, v. 004  p. 0009, 71.61, , , 1.01, 7.83, , 10000.0
+505, GI02-191865R, NGF's Additional New Data (J), 2001, v. 004  p. 0009, 72.73, , 0.03, 4.49, 8.05, , 23700.0
+506, GI02-191866R, NGF's Additional New Data (J), 2001, v. 004  p. 0009, 76.53, , , , 8.38, , 28800.0
+507, GI02-191869R, NGF's Additional New Data (J), 2001, v. 004  p. 0009, 75.87, , 0.03, 3.54, 8.48, , 16000.0
+508, GI20-191871R, NGF's Additional New Data (J), 2001, v. 004  p. 0009, 0.36, 10.01, 9.81, , 0.07, , 348.0
+509, GI20-191872R, NGF's Additional New Data (J), 2001, v. 004  p. 0009, 0.37, 10.21, 0.08, 10.07, 0.09, , 196.0
+510, GI20-191874R, NGF's Additional New Data (J), 2001, v. 004  p. 0009, 0.4, 9.8, , , 0.1, , 107.0
+511, GI20-191875R, NGF's Additional New Data (J), 2001, v. 004  p. 0009, 0.59, 10.27, 0.09, 0.02, 0.11, , 102.0
+512, GI20-191876R, NGF's Additional New Data (J), 2001, v. 004  p. 0009, 0.38, 9.74, , 0.02, 0.09, , 283.0
+513, GI20-191877R, NGF's Additional New Data (J), 2001, v. 004  p. 0009, 0.4, 10.9, , , 0.1, , 258.0
+514, GI20-191878R, NGF's Additional New Data (J), 2001, v. 004  p. 0009, , 6.54, , , , , 86.5
+515, GI20-191879R, NGF's Additional New Data (J), 2001, v. 004  p. 0009, 0.98, 5.56, , , 0.06, , 109.0
+516, GI20-191880R, NGF's Additional New Data (J), 2001, v. 004  p. 0009, 1.56, 3.15, , 0.04, 0.04, , 73.4
+517, GI20-191882R, NGF's Additional New Data (J), 2001, v. 004  p. 0009, 0.42, 10.16, , 0.05, 0.1, , 70.7
+518, GI20-191884R, NGF's Additional New Data (J), 2001, v. 004  p. 0009, 0.39, 10.36, , 0.08, 0.08, , 115.0
+519, GP05-205435, Japanese Patent    Hoya Corp. (J), 2000, A236147, 14.7, 4.0, 3.4, 3.7, , , 100.0
+520, GP05-205436, Japanese Patent    Hoya Corp. (J), 2000, A236147, 17.95, 2.29, , , , , 100.0
+521, GP07-205437, Japanese Patent    Hoya Corp. (J), 2000, A236147, 10.7, 2.1, , , , , 100.0
+522, GP07-205438, Japanese Patent    Hoya Corp. (J), 2000, A236147, 29.23, 6.11, , , , , 100.0
+523, GP07-205439, Japanese Patent    Hoya Corp. (J), 2000, A236147, 34.46, 1.4, , 6.39, , , 100.0
+524, GP07-205440, Japanese Patent    Hoya Corp. (J), 2000, A236147, 16.8, 2.2, , 4.6, , , 100.0
+525, GP07-205441, Japanese Patent    Hoya Corp. (J), 2000, A236147, 26.83, 5.01, , 3.9, , , 100.0
+526, GP07-205442, Japanese Patent    Hoya Corp. (J), 2000, A236147, 10.2, 4.5, , , , , 100.0
+527, GP07-205443, Japanese Patent    Hoya Corp. (J), 2000, A236147, 15.1, 4.5, , , , , 100.0
+528, GP07-205444, Japanese Patent    Hoya Corp. (J), 2000, A236147, 13.47, 4.12, , , , , 100.0
+529, GI02-207386, NEDO Project Report of NGF (J), 2001, v. 001  p. 0026, 70.35, 0.93, 5.76, 9.36, 12.79, 0.15, 5284.0
+530, GI02-207395, NEDO Project Report of NGF (J), 2001, v. 001  p. 0029, 72.04, 0.88, 2.96, 10.65, 13.0, , 6855.0
+531, GI02-207404, NEDO Project Report of NGF (J), 2001, v. 001  p. 0027, 74.49, , , 9.91, 15.6, , 4083.0
+532, GI05-207414, NEDO Project Report of NGF (J), 2001, v. 001  p. 0028, 82.76, 1.4, , , 4.19, , 107400.0
+533, GI05-207420, NEDO Project Report of NGF (J), 2001, v. 001  p. 0027, *, *, , , *, , 14930.0
+534, GI06-207428, NEDO Project Report of NGF (J), 2001, v. 001  p. 0029, 62.35, 9.57, 14.1, 1.38, 1.25, , 206100.0
+535, GI03-207430, NEDO Project Report of NGF (J), 2001, v. 001  p. 0028, 72.69, 2.14, , , 9.39, , 8279.0
+536, GJ03-207888, Physics and Chemistry of  Glasses, 2001, v. 042  p. 0061, 54.97, 14.74, 3.29, 18.63, 0.3, , 125900.0
+537, GJ05-207889, Physics and Chemistry of  Glasses, 2001, v. 042  p. 0061, 82.78, 1.58, , 1.0, 3.8, , 1000000.0
+538, GJ02-207890, Physics and Chemistry of  Glasses, 2001, v. 042  p. 0061, 72.43, 2.52, 0.91, 9.05, 12.58, , 15850.0
+539, GJ05-207891, Physics and Chemistry of  Glasses, 2001, v. 042  p. 0061, 59.5, , , , 16.7, , 631.0
+540, GJ03-208243, J. Materials Science, 2001, v. 036  p. 0123, 55.0, 22.0, 23.0, , , , 4.677E12
+541, GJ03-208246, J. Materials Science, 2001, v. 036  p. 0123, 54.0, 23.0, 23.0, , , , 3.388E12
+542, GJ03-208250, J. Materials Science, 2001, v. 036  p. 0123, 58.0, 21.0, 21.0, , , , 6.026E12
+543, GI02-218851, Proc. ICG, 1999, v. B04  p. 0010, 74.14, , , , 24.93, , 2512.0
+544, GI02-218852, Proc. ICG, 1999, v. B04  p. 0010, 72.95, , , , 24.32, , 1585.0
+545, GI02-218853, Proc. ICG, 1999, v. B04  p. 0010, 69.66, , , , 25.11, , 1000.0
+546, GI02-218854, Proc. ICG, 1999, v. B04  p. 0010, 69.04, , , , 23.73, , 1000.0
+547, GI02-218855, Proc. ICG, 1999, v. B04  p. 0010, 64.43, , , , 25.76, , 631.0
+548, GI05-219022, Proc. ICG, 1999, v. C02  p. 0008, 60.0, , , , 16.0, , 316.2
+549, GJ05-220001, J. Non-Crystalline Solids, 2002, v. 306  p. 0058, 82.89, 1.5, , 1.0, 3.7, , 398100.0
+550, GJ05-220002, J. Non-Crystalline Solids, 2002, v. 306  p. 0058, 50.0, , , , 20.0, , 63.1
+551, GJ05-220003, J. Non-Crystalline Solids, 2002, v. 306  p. 0058, 60.0, , , , 16.0, , 398.1
+552, FJ02-240845, Geochim. Cosmochim. Acta, 1988, v. 052  p. 0395, 76.51, , , , 21.41, , 204.174
+553, FJ02-240846, Geochim. Cosmochim. Acta, 1988, v. 052  p. 0395, 70.74, , , , 25.09, , 95.4993
+554, FJ02-240847, Geochim. Cosmochim. Acta, 1988, v. 052  p. 0395, 63.09, , , , 28.76, , 29.5121
+555, FJ02-240848, Geochim. Cosmochim. Acta, 1988, v. 052  p. 0395, 54.64, , , , 32.65, , 10.4713
+556, FJ02-240849, Geochim. Cosmochim. Acta, 1988, v. 052  p. 0395, 47.18, , , , 36.23, , 4.67735
+557, FJ02-240850, Geochim. Cosmochim. Acta, 1988, v. 052  p. 0395, 38.14, , , , 41.42, , 2.34423
+558, FJ02-240851, Geochim. Cosmochim. Acta, 1988, v. 052  p. 0395, 87.1, , , , 6.41, , 21379.6
+559, FJ02-240852, Geochim. Cosmochim. Acta, 1988, v. 052  p. 0395, 74.49, , , , 12.82, , 831.764
+560, FJ02-240853, Geochim. Cosmochim. Acta, 1988, v. 052  p. 0395, 64.87, , , , 17.7, , 87.0964
+561, GJ20-243636, J. Chemical Physics, 2003, v. 119  p. 4372, , , , , *, , 1.259
+562, GJ02-245039, J. Soc. Materials Science Japan (J), 1966, v. 015  p. 0567, 73.06, , , 12.88, 8.74, , 10000.0
+563, GJ04-245067, J. Res. National Bureau of Standards, 1951, v. 046  p. 0176, 76.29, , , , 0.56, , 10000.0
+564, GJ04-245069, J. Res. National Bureau of Standards, 1951, v. 046  p. 0176, 69.31, , , , 6.92, , 1153.45
+565, GJ04-245071, J. Res. National Bureau of Standards, 1951, v. 046  p. 0176, 70.73, , , , 4.51, , 1967.89
+566, GJ04-245073, J. Res. National Bureau of Standards, 1951, v. 046  p. 0176, 68.75, , , , 1.13, , 1766.04
+567, GJ04-245079, J. Res. National Bureau of Standards, 1951, v. 046  p. 0176, 74.64, , , , 14.6, , 4178.3
+568, GJ03-245080, J. Res. National Bureau of Standards, 1951, v. 046  p. 0176, 71.45, , , , 3.3, , 10303.9
+569, GJ03-245081, J. Res. National Bureau of Standards, 1951, v. 046  p. 0176, 60.02, 2.35, , , 1.8, , 5296.63
+570, GJ03-245082, J. Res. National Bureau of Standards, 1951, v. 046  p. 0176, 62.91, 1.17, , , 1.16, , 7144.96
+571, GJ03-245084, J. Res. National Bureau of Standards, 1951, v. 046  p. 0176, 53.89, 2.41, , 6.79, , , 7144.96
+572, GJ03-245085, J. Res. National Bureau of Standards, 1951, v. 046  p. 0176, 55.03, 4.16, , 3.55, , , 5482.77
+573, GJ03-245086, J. Res. National Bureau of Standards, 1951, v. 046  p. 0176, 55.88, 4.33, , , 0.29, , 5597.58
+574, GJ03-245087, J. Res. National Bureau of Standards, 1951, v. 046  p. 0176, 50.69, , , 5.17, , , 1402.81
+575, GJ04-245088, J. Res. National Bureau of Standards, 1951, v. 046  p. 0176, 68.41, , , , 2.13, , 9817.48
+576, GJ02-245091, J. Res. National Bureau of Standards, 1951, v. 046  p. 0176, 74.69, , , 2.45, 14.81, , 3749.73
+577, GJ02-245092, J. Res. National Bureau of Standards, 1951, v. 046  p. 0176, 71.25, , , 10.22, 13.77, 0.38, 5861.38
+578, GJ02-245096, J. Res. National Bureau of Standards, 1951, v. 046  p. 0176, 73.86, , , , 8.12, , 3899.42
+579, GJ02-245097, J. Res. National Bureau of Standards, 1951, v. 046  p. 0176, 71.26, , , , 7.81, , 3953.67
+580, GJ02-245098, J. Res. National Bureau of Standards, 1951, v. 046  p. 0176, 71.26, , , , 7.81, , 4083.19
+581, GJ02-245101, J. Res. National Bureau of Standards, 1951, v. 046  p. 0176, 73.88, 0.13, , , 9.55, , 5023.43
+582, GB02-245371, High Temp. Glass Melt Property Database, 2005, v. 001  p. 0029, 70.56, 1.87, 4.12, 7.91, 13.25, 0.007433, 3534.4
+583, GB02-245400, High Temp. Glass Melt Property Database, 2005, v. 001  p. 0033, 68.79, 0.06, 5.9, 9.53, 14.38, , 7144.2
+584, GB02-245403, High Temp. Glass Melt Property Database, 2005, v. 001  p. 0033, 67.62, 1.18, 5.96, 9.63, 14.52, , 7473.3
+585, GB02-245481, High Temp. Glass Melt Property Database, 2005, v. 001  p. 0039, 68.33, , 1.52, 5.93, 18.32, 0.17, 2195.6
+586, GB02-245485, High Temp. Glass Melt Property Database, 2005, v. 001  p. 0039, 63.16, 3.81, 6.9, 5.76, 17.58, 0.16, 6841.3
+587, GB02-245489, High Temp. Glass Melt Property Database, 2005, v. 001  p. 0039, 68.19, , 1.59, 5.96, 14.34, , 4825.9
+588, GB02-245491, High Temp. Glass Melt Property Database, 2005, v. 001  p. 0039, 57.3, 3.66, 1.54, 12.19, 17.05, , 967.5
+589, GB02-245492, High Temp. Glass Melt Property Database, 2005, v. 001  p. 0039, 49.0, 3.57, 7.52, 11.88, 16.62, 0.15, 176.5
+590, FJ10-245654, J. American Ceramic Soc., 1994, v. 077  p. 1032, , , , , 37.18, , 3.86
+591, FJ10-245655, J. American Ceramic Soc., 1994, v. 077  p. 1032, , , , , 40.73, , 3.8
+592, FJ10-245656, J. American Ceramic Soc., 1994, v. 077  p. 1032, , , , , 43.87, , 3.55
+593, FJ10-245657, J. American Ceramic Soc., 1994, v. 077  p. 1032, , , , , 46.7, , 3.41
+594, FJ10-245658, J. American Ceramic Soc., 1994, v. 077  p. 1032, , , , , 49.25, , 3.32
+595, FJ10-245659, J. American Ceramic Soc., 1994, v. 077  p. 1032, , , , 10.52, 44.04, , 37.47
+596, FJ10-245660, J. American Ceramic Soc., 1994, v. 077  p. 1032, , , , 26.08, 36.36, , 43.14
+597, FJ10-245661, J. American Ceramic Soc., 1994, v. 077  p. 1032, , , , 36.96, 31.03, , 52.27
+598, FJ10-245662, J. American Ceramic Soc., 1994, v. 077  p. 1032, , , , 35.53, 29.82, , 7.04
+599, FJ10-245663, J. American Ceramic Soc., 1994, v. 077  p. 1032, , , , 34.26, 28.75, , 6.03
+600, FJ10-245664, J. American Ceramic Soc., 1994, v. 077  p. 1032, , , , 32.95, 27.75, , 5.76
+601, GJ20-251764, J. Non-Crystalline Solids, 2003, v. 331  p. 0020, 0.18, 3.66, , , 40.87, 1.78, 18.0
+602, GJ20-251765, J. Non-Crystalline Solids, 2003, v. 331  p. 0020, 0.18, 14.11, , , 38.24, 1.98, 31.0
+603, GJ20-251766, J. Non-Crystalline Solids, 2003, v. 331  p. 0020, 0.18, 3.24, , , 40.0, 2.06, 25.0
+604, GJ05-252174, Physics and Chemistry of  Glasses, 2003, v. 044  p. 0409, 60.0, , , , 16.0, , 316.2
+605, GB02-254558, Str. Dynam. and Prop. of Silicate Melts, 1995, v. 032  p. 0056, 75.0, 12.5, , , 12.5, , 39810.0
+606, GB02-254559, Str. Dynam. and Prop. of Silicate Melts, 1995, v. 032  p. 0056, 75.0, 12.5, , , , , 63100.0
+607, GB02-254560, Str. Dynam. and Prop. of Silicate Melts, 1995, v. 032  p. 0056, 75.0, 12.5, , , 6.25, , 50120.0
+608, GB02-254565, Str. Dynam. and Prop. of Silicate Melts, 1995, v. 032  p. 0067, 40.0, , , , 40.0, , 100.0
+609, GB02-254566, Str. Dynam. and Prop. of Silicate Melts, 1995, v. 032  p. 0067, 66.67, , , , 33.33, , 1995.0
+610, GB02-254567, Str. Dynam. and Prop. of Silicate Melts, 1995, v. 032  p. 0067, 75.0, , , , 25.0, , 6310.0
+611, GI02-263429, Proc. ICG, 1989, v. 01a  p. 0162, 66.67, , , , 3.33, , 281.8
+612, GI02-263430, Proc. ICG, 1989, v. 01a  p. 0162, 66.66, , , , 6.67, , 251.2
+613, GI02-263431, Proc. ICG, 1989, v. 01a  p. 0162, 66.67, , , , 10.0, , 251.2
+614, GI02-263432, Proc. ICG, 1989, v. 01a  p. 0162, 66.67, , , , 13.33, , 223.9
+615, GI02-263433, Proc. ICG, 1989, v. 01a  p. 0162, 66.66, , , , 16.67, , 223.9
+616, GI02-263434, Proc. ICG, 1989, v. 01a  p. 0162, 66.67, , , , 20.0, , 281.8
+617, GI02-263435, Proc. ICG, 1989, v. 01a  p. 0162, 66.67, , , , 23.33, , 354.8
+618, GI02-263436, Proc. ICG, 1989, v. 01a  p. 0162, 66.66, , , , 26.67, , 398.1
+619, GI02-263437, Proc. ICG, 1989, v. 01a  p. 0162, 66.67, , , , 30.0, , 562.3
+620, GI02-263438, Proc. ICG, 1989, v. 01a  p. 0162, 66.67, , , , 33.33, , 1122.0
+621, FJ10-271133, J. American Ceramic Soc., 1994, v. 077  p. 1032, , , , , 6.52, , 3.86
+622, FJ10-271134, J. American Ceramic Soc., 1994, v. 077  p. 1032, , , , , 12.96, , 3.8
+623, FJ10-271135, J. American Ceramic Soc., 1994, v. 077  p. 1032, , , , , 19.3, , 3.55
+624, FJ10-271136, J. American Ceramic Soc., 1994, v. 077  p. 1032, , , , , 25.55, , 3.41
+625, FJ10-271137, J. American Ceramic Soc., 1994, v. 077  p. 1032, , , , , 31.71, , 3.32
+626, FJ10-271138, J. American Ceramic Soc., 1994, v. 077  p. 1032, , , , , 49.3, , 3.32
+627, FJ10-271139, J. American Ceramic Soc., 1994, v. 077  p. 1032, , , , 10.52, 44.04, , 37.47
+628, FJ10-271140, J. American Ceramic Soc., 1994, v. 077  p. 1032, , , , 26.08, 36.36, , 44.14
+629, FJ10-271141, J. American Ceramic Soc., 1994, v. 077  p. 1032, , , , 36.96, 31.03, , 52.27
+630, FJ10-271142, J. American Ceramic Soc., 1994, v. 077  p. 1032, , , , 35.53, 29.82, , 7.04
+631, FJ10-271143, J. American Ceramic Soc., 1994, v. 077  p. 1032, , , , 34.26, 28.75, , 6.3
+632, FJ10-271144, J. American Ceramic Soc., 1994, v. 077  p. 1032, , , , 32.95, 27.75, , 5.76
+633, GP05-271943, Japanese Patent    Hoya Corp. (J), 2006, A096610, 13.0, , , 10.0, , , 7.0
+634, GP05-271944, Japanese Patent    Hoya Corp. (J), 2006, A096610, 12.0, , , 12.0, , , 6.0
+635, GP05-271945, Japanese Patent    Hoya Corp. (J), 2006, A096610, 8.0, , , 11.0, , , 3.0
+636, GP05-271946, Japanese Patent    Hoya Corp. (J), 2006, A096610, 13.0, , , 9.0, , , 6.0
+637, GP05-271947, Japanese Patent    Hoya Corp. (J), 2006, A096610, 13.0, , , 11.0, , , 5.0
+638, GP05-271948, Japanese Patent    Hoya Corp. (J), 2006, A096610, 13.0, , 2.0, 7.0, , , 5.0
+639, GP05-271949, Japanese Patent    Hoya Corp. (J), 2006, A096610, 12.0, , , 14.0, , , 6.0
+640, GP05-271950, Japanese Patent    Hoya Corp. (J), 2006, A096610, 13.0, , , 9.0, , , 6.0
+641, GP05-271951, Japanese Patent    Hoya Corp. (J), 2006, A096610, 12.0, , , 9.0, , , 5.0
+642, GP05-271952, Japanese Patent    Hoya Corp. (J), 2006, A096610, 13.0, , , 10.0, , , 5.0
+643, GP10-271998, Japanese Patent    Konica Minolta (J), 2006, A111482, 8.11, , , 10.86, , , 1.0
+644, GP10-271999, Japanese Patent    Konica Minolta (J), 2006, A111482, 8.17, , , , 3.96, , 5.5
+645, GP10-272000, Japanese Patent    Konica Minolta (J), 2006, A111482, 3.25, , 12.12, , , , 8.0
+646, GP10-272001, Japanese Patent    Konica Minolta (J), 2006, A111482, 3.52, 3.11, , , , , 9.5
+647, GP10-272042, Japanese Patent    Ohara Inc. (J), 2006, A117503, 11.5, , , 2.38, , , 8.913
+648, GP10-272043, Japanese Patent    Ohara Inc. (J), 2006, A117503, 11.53, , , 2.39, , , 7.079
+649, GP10-272045, Japanese Patent    Ohara Inc. (J), 2006, A117503, 15.28, , , 2.4, , , 4.467
+650, GP10-272047, Japanese Patent    Ohara Inc. (J), 2006, A117503, 15.32, , , 2.4, , , 7.943
+651, GP02-272137, Japanese Patent    Nippon Electric Glass (J), 2006, A137631, 65.82, 5.69, 1.8, 2.59, 5.85, , 160000.0
+652, GP02-272139, Japanese Patent    Nippon Electric Glass (J), 2006, A137631, 63.84, 4.83, 6.98, 2.51, 4.54, , 320000.0
+653, GP02-272140, Japanese Patent    Nippon Electric Glass (J), 2006, A137631, 64.65, 4.23, 3.57, 3.85, 4.64, , 1000000.0
+654, GP05-272413, US Patent    Corning Inc. (US), 2006, A6992030, 76.06, 6.0, 1.0, 4.4, , , 2.9E7
+655, GP05-272415, US Patent    Corning Inc. (US), 2006, A6992030, 73.96, 6.5, , 6.0, , , 4.0E7
+656, GP05-272417, US Patent    Corning Inc. (US), 2006, A6992030, 71.96, 6.0, , 7.5, , , 1.98E7
+657, GP05-272796, US Patent    Hoya Corp. (J), 2006, A0079390, 13.0, , , 10.0, , , 7.0
+658, GP05-272797, US Patent    Hoya Corp. (J), 2006, A0079390, 12.0, , , 12.0, , , 6.0
+659, GP10-272798, US Patent    Hoya Corp. (J), 2006, A0079390, 8.0, , , 11.0, , , 3.0
+660, GP05-272799, US Patent    Hoya Corp. (J), 2006, A0079390, 13.0, , , 9.0, , , 6.0
+661, GP05-272800, US Patent    Hoya Corp. (J), 2006, A0079390, 13.0, , , 11.0, , , 5.0
+662, GP05-272801, US Patent    Hoya Corp. (J), 2006, A0079390, 13.0, , 2.0, 7.0, , , 5.0
+663, GP05-272802, US Patent    Hoya Corp. (J), 2006, A0079390, 12.0, , , 14.0, , , 6.0
+664, GP05-272803, US Patent    Hoya Corp. (J), 2006, A0079390, 13.0, , , 9.0, , , 6.0
+665, GP05-272804, US Patent    Hoya Corp. (J), 2006, A0079390, 12.0, , , 9.0, , , 5.0
+666, GP05-272805, US Patent    Hoya Corp. (J), 2006, A0079390, 13.0, , , 10.0, , , 5.0
+667, GP03-278192, Japanese Patent    Nippon Electric Glass (J), 2007, A039316, 67.11, 10.05, , 7.31, , , 1000000.0
+668, GP03-278193, Japanese Patent    Nippon Electric Glass (J), 2007, A039316, 66.29, 9.59, 0.9, 5.17, , , 794300.0
+669, GP06-278195, Japanese Patent    Nippon Electric Glass (J), 2007, A039316, 67.91, 11.04, 1.75, 5.02, , , 5012000.0
+670, GP06-278196, Japanese Patent    Nippon Electric Glass (J), 2007, A039316, 67.06, 10.05, 1.69, 6.09, , , 1259000.0
+671, GP03-278451, Japanese Patent    Nippon Electric Glass (J), 2007, A099557, 66.05, 4.91, 3.55, 2.55, 4.61, , 199500.0
+672, GJ03-283658, J. American Ceramic Soc., 2008, v. 091  p. 0990, 57.63, 1.0, , 33.69, , , 1584893.0
+673, GJ03-283659, J. American Ceramic Soc., 2008, v. 091  p. 0990, 55.44, 4.76, , 32.41, , , 1000000.0
+674, GJ03-283660, J. American Ceramic Soc., 2008, v. 091  p. 0990, 52.91, 9.09, , 30.94, , , 1995262.0
+675, GJ02-283820, J. Ceramic Soc. Japan, 2008, v. 116  p. 0497, 47.27, 7.94, 3.46, 5.66, 18.67, , 108.6
+676, GP03-287102, Japanese Patent    Nippon Electric Glass (J), 2008, A280189, 67.65, 7.41, , 1.85, 2.75, , 501200.0
+677, GP20-287559, US Patent    Schott AG (DE), 2008, A7451620, , , , , 10.0, , 0.4
+678, GP20-287560, US Patent    Schott AG (DE), 2008, A7451620, , , , , 10.0, , 0.4
+679, GP10-287628, US Patent    Hoya Corp. (J), 2008, A7468338, , 6.5, , , , , 3.162E12
+680, GP10-287629, US Patent    Hoya Corp. (J), 2008, A7468338, , 2.5, , , , , 3.162E12
+681, GP10-287630, US Patent    Hoya Corp. (J), 2008, A7468338, , 2.5, , , , , 3.162E11
+682, GP02-287663, US Patent    Nippon Electric Glass (J), 2008, A7470999, 63.67, 4.64, 5.78, 5.01, 3.87, 0.09, 63100.0
+683, GJ02-288585, Glass Technology, 2008, v. 049  p. 0251, 51.38, , 9.06, 16.27, 14.72, , 204.2
+684, GJ03-288588, Glass Technology, 2008, v. 049  p. 0251, 54.51, , 9.16, 19.19, 4.96, , 1905.0
+685, GJ03-288589, Glass Technology, 2008, v. 049  p. 0251, 58.0, , , 22.39, 10.13, , 724.4
+686, GJ03-288591, Glass Technology, 2008, v. 049  p. 0251, 65.17, , 4.54, 16.3, 9.84, , 5370.0
+687, GJ05-291532, Physics and Chemistry of  Glasses, 2009, v. 050  p. 0165, 25.0, , , , 12.5, , 7.586
+688, GJ05-291533, Physics and Chemistry of  Glasses, 2009, v. 050  p. 0165, 48.5, , , , 3.0, , 309.0
+689, GJ05-291534, Physics and Chemistry of  Glasses, 2009, v. 050  p. 0165, 42.5, , , , 15.0, , 33.11
+690, GJ05-291535, Physics and Chemistry of  Glasses, 2009, v. 050  p. 0165, 60.0, , , , 6.5, , 478.6
+691, GP05-296577, US Patent    Hoya Corp. (J), 2010, A7700507, 13.0, , , 10.0, , , 1.0E7
+692, GP05-296578, US Patent    Hoya Corp. (J), 2010, A7700507, 12.0, , , 12.0, , , 1000000.0
+693, GP10-296579, US Patent    Hoya Corp. (J), 2010, A7700507, 8.0, , , 11.0, , , 1000.0
+694, GP05-296580, US Patent    Hoya Corp. (J), 2010, A7700507, 13.0, , , 9.0, , , 1000000.0
+695, GP05-296581, US Patent    Hoya Corp. (J), 2010, A7700507, 13.0, , , 11.0, , , 100000.0
+696, GP05-296582, US Patent    Hoya Corp. (J), 2010, A7700507, 13.0, , 2.0, 7.0, , , 100000.0
+697, GP05-296583, US Patent    Hoya Corp. (J), 2010, A7700507, 12.0, , , 14.0, , , 1000000.0
+698, GP05-296584, US Patent    Hoya Corp. (J), 2010, A7700507, 13.0, , , 9.0, , , 1000000.0
+699, GP05-296585, US Patent    Hoya Corp. (J), 2010, A7700507, 12.0, , , 9.0, , , 100000.0
+700, GP05-296586, US Patent    Hoya Corp. (J), 2010, A7700507, 13.0, , , 10.0, , , 100000.0
+701, GP03-301258, Japanese Patent    Nippon Electric Glass (J), 2011, A063464, 63.42, 10.63, , 11.22, , , 1000000.0
+702, GJ02-303972, J. Non-Crystalline Solids, 2011, v. 357  p. 002941, 74.0, , , 10.0, 16.0, , 8810.49
+703, GJ02-303973, J. Non-Crystalline Solids, 2011, v. 357  p. 002941, 74.0, , , , 26.0, , 3672.82
+704, GJ02-304286, J. Non-Crystalline Solids, 2011, v. 357  p. 003897, 59.25, 2.5, 16.0, , 19.0, , 6309.57
+705, GJ02-304287, J. Non-Crystalline Solids, 2011, v. 357  p. 003897, 59.0, 2.5, 16.0, , 19.0, , 11220.2
+706, GJ02-304289, J. Non-Crystalline Solids, 2011, v. 357  p. 003897, 58.5, 2.5, 16.0, , 19.0, , 22387.2
+707, GJ02-304378, Physics and Chemistry of  Glasses, 2011, v. 052  p. 000085, 60.5, 2.5, 12.0, 4.0, 18.0, , 6309.57
+708, GJ02-304379, Physics and Chemistry of  Glasses, 2011, v. 052  p. 000085, 60.5, 2.5, 16.0, , 18.0, , 7943.28
+709, GP02-304880, Japanese Patent    Nippon Electric Glass (J), 2011, A178662, 59.19, 12.53, 1.67, 2.4, 17.35, , 125900.0
+710, GP02-304881, Japanese Patent    Nippon Electric Glass (J), 2011, A178662, 61.24, 10.61, , 2.41, 17.46, , 1585000.0
+711, GP02-304882, Japanese Patent    Nippon Electric Glass (J), 2011, A178662, 58.37, 10.41, 3.29, 2.37, 17.11, , 251200.0
+712, GP02-304883, Japanese Patent    Nippon Electric Glass (J), 2011, A178662, 65.82, 10.19, 1.61, 2.32, 16.77, , 631000.0
+713, GP02-304884, Japanese Patent    Nippon Electric Glass (J), 2011, A178662, 67.83, 8.33, , 2.33, 16.87, , 631000.0
+714, GP02-304885, Japanese Patent    Nippon Electric Glass (J), 2011, A178662, 64.53, 8.18, 3.18, 2.29, 16.57, , 316200.0
+715, GP02-304886, Japanese Patent    Nippon Electric Glass (J), 2011, A178662, 60.39, 8.51, 1.65, 2.38, 17.22, , 631000.0
+716, GP03-304891, Japanese Patent    Nippon Electric Glass (J), 2011, A184216, 55.57, 1.31, , 9.34, , , 39810.0
+717, GP03-304898, Japanese Patent    Nippon Electric Glass (J), 2011, A184216, 58.97, 1.28, , 10.74, , , 31620.0
+718, GP02-304918, Japanese Patent    Nippon Electric Glass (J), 2011, A190174, 66.99, 8.36, 3.25, 2.34, 11.63, , 1000000.0
+719, GP02-304919, Japanese Patent    Nippon Electric Glass (J), 2011, A190174, 66.46, 8.57, 3.34, 2.4, 7.59, , 199500.0
+720, GP02-304976, Japanese Patent    Nippon Electric Glass (J), 2011, A195445, 59.19, 12.53, 1.67, 2.4, 17.35, , 125900.0
+721, GP03-305070, Japanese Patent    Nippon Electric Glass (J), 2011, A213568, 55.34, 1.3, , 9.3, , , 39810.0
+722, GJ20-308393, J. Non-Crystalline Solids, 2012, v. 358  p. 001480, , , 20.0, , , , 16.22
+723, GP02-331079, US Patent    Others, 2012, A8115044, 40.88, 10.71, , 0.01, 30.83, 0.17, 382.0
+724, GP03-350702, Japanese Patent    Nippon Electric Glass (J), 2012, A254933, 68.71, 6.81, , , 2.8, , 1258930.0
+725, GP03-350705, Japanese Patent    Nippon Electric Glass (J), 2012, A254933, 70.42, 6.0, , , 2.77, , 1584890.0
+726, GP20-350951, US Patent    Hoya Corp. (J), 2012, A0238433, , , , , 3.0, , 39.8107
+727, GP20-350954, US Patent    Hoya Corp. (J), 2012, A0238433, , , , , 2.78, , 100.0
+728, GP02-351439, US Patent    Nippon Electric Glass (J), 2013, A8349454, 67.85, 8.47, 5.94, , 8.54, , 100000.0
+729, GP02-351441, US Patent    Nippon Electric Glass (J), 2013, A8349454, 67.07, 8.49, 5.95, , 8.56, , 79432.8
+730, GP03-352334, US Patent    Others, 2013, A0255779, 63.35, 11.4, 6.14, 5.54, , , 4244242.0
+731, GP03-352339, US Patent    Others, 2013, A0255779, 62.97, 9.66, 2.75, 3.05, , , 1100000.0
+732, GP02-352356, US Patent    AGC (J), 2013, A0267402, 77.38, 6.11, 3.31, , 9.22, , 631000.0
+733, GP02-352359, US Patent    AGC (J), 2013, A0267402, 73.78, 7.74, 7.6, , 1.05, , 3981000.0
+734, GJ02-352514, Glass Technology, 2012, v. 053  p. 0235, 60.5, 2.5, , 16.0, 18.0, , 10000.0
+735, GJ02-352515, Glass Technology, 2012, v. 053  p. 0235, 60.5, 2.5, 8.0, 8.0, 18.0, , 10000.0
+736, GJ02-352516, Glass Technology, 2012, v. 053  p. 0235, 63.0, 2.5, 6.0, 3.5, 16.0, , 10000.0
+737, GJ02-352517, Glass Technology, 2012, v. 053  p. 0235, 63.0, 2.5, 6.0, 3.5, 14.0, , 10000.0
+738, GJ20-352882, J. Non-Crystalline Solids, 2014, v. 385  p. 0009, , , , 50.0, , , 25.1189
+739, GJ20-352884, J. Non-Crystalline Solids, 2014, v. 385  p. 0009, , , 50.0, , , , 177.828
+740, GP06-353491, Japanese Patent    Corning Inc. (US), 2013, A502371, 63.95, 13.99, 2.02, 0.05, 11.39, , 4720000.0
+741, GP03-354096, European Patent    Corning Inc. (US), 2014, A2742010, 61.0, 11.4, 4.7, 5.6, , , 893000.0
+742, GP03-354097, European Patent    Corning Inc. (US), 2014, A2742010, 61.88, 10.78, 4.39, 5.49, , , 808000.0
+743, GJ02-355263, J. Non-Crystalline Solids, 2014, v. 406  p. 0054, 71.78, 2.63, , , , , 758578.0
+744, GJ02-355264, J. Non-Crystalline Solids, 2014, v. 406  p. 0054, 71.06, 2.6, , , , , 724436.0
+745, GJ02-355265, J. Non-Crystalline Solids, 2014, v. 406  p. 0054, 69.63, 2.55, , , , , 676083.0
+746, GJ02-355266, J. Non-Crystalline Solids, 2014, v. 406  p. 0054, 68.19, 2.5, , , , , 630957.0
+747, GJ20-355605, J. Non-Crystalline Solids, 2015, v. 408  p. 0076, , , 23.92, 16.22, 20.02, , 1.77828
+748, GJ20-355606, J. Non-Crystalline Solids, 2015, v. 408  p. 0076, , , 23.82, 16.32, 14.71, , 5.01187
+749, GJ20-355607, J. Non-Crystalline Solids, 2015, v. 408  p. 0076, , , 23.62, 16.22, 10.71, , 12.5893
+750, GJ20-355608, J. Non-Crystalline Solids, 2015, v. 408  p. 0076, , , 24.0, 16.4, 5.6, , 28.8403
+751, GJ20-355609, J. Non-Crystalline Solids, 2015, v. 408  p. 0076, , , 23.5, 16.3, 16.3, , 1.99526
+752, GJ20-355610, J. Non-Crystalline Solids, 2015, v. 408  p. 0076, , , 23.7, 16.4, 10.4, , 6.30957
+753, GJ20-355611, J. Non-Crystalline Solids, 2015, v. 408  p. 0076, , , 24.1, 16.5, 5.0, , 17.7828
+754, GJ20-355612, J. Non-Crystalline Solids, 2015, v. 408  p. 0076, , , 24.4, 16.4, , , 63.0957
+755, GP03-356358, Japanese Patent    Nippon Electric Glass (J), 2014, A094858, 65.91, 4.97, 3.36, 2.67, 4.95, 0.03, 158489.0
+756, GP03-356359, Japanese Patent    Nippon Electric Glass (J), 2014, A094858, 65.95, 4.97, 3.36, 2.67, 4.95, 0.03, 158489.0
+757, GP03-356362, Japanese Patent    Nippon Electric Glass (J), 2014, A094858, 66.0, 4.97, 3.36, 2.67, 4.95, 0.00891, 158489.0
+758, GP02-356429, Japanese Patent    Nippon Electric Glass (J), 2014, A097928, 59.19, 12.53, 1.67, 2.4, 17.35, , 125893.0
+759, GP03-356527, Japanese Patent    Nippon Electric Glass (J), 2014, A111539, 57.21, 4.01, , 8.46, , , 15848.9
+760, GP03-356529, Japanese Patent    Nippon Electric Glass (J), 2014, A111539, 57.07, 1.29, , 9.56, , , 12589.3
+761, GP06-356761, US Patent    Others, 2014, A0150867, 67.87, 10.83, 3.61, 1.9, 14.79, , 552000.0
+762, GP02-357224, US Patent    Corning Inc. (US), 2014, A0323286, 75.11, 4.76, 4.36, 3.75, 1.77, , 2163000.0
+763, GP06-357456, European Patent    Corning Inc. (US), 2012, A2456727, 66.93, 10.82, 3.61, 1.9, 14.74, , 817000.0
+764, GP02-357694, US Patent    Nippon Electric Glass (J), 2012, A8168295, 59.19, 12.53, 1.67, 2.4, 17.35, , 125893.0
+765, GJ02-359054, J. Non-Crystalline Solids, 2015, v. 425  p. 0028, 46.82, 3.19, 2.43, 6.61, 12.92, 0.48, 1.0E9
+766, GJ02-359055, J. Non-Crystalline Solids, 2015, v. 425  p. 0028, 50.46, 3.27, 4.62, 7.33, 6.05, 0.71, 3.16228E20
+767, GP03-359673, Japanese Patent    Nippon Electric Glass (J), 2015, A027927, 56.17, 1.95, , 8.35, , , 25118.9
+768, GP03-359679, Japanese Patent    Nippon Electric Glass (J), 2015, A027927, 53.0, 3.9, 5.93, , , , 15848.9
+769, GP03-359680, Japanese Patent    Nippon Electric Glass (J), 2015, A027927, 53.06, 3.91, , 8.39, , , 15848.9
+770, GP02-359821, Japanese Patent    Nippon Electric Glass (J), 2015, A034123, 67.37, 12.74, 2.44, , 13.97, , 3981070.0
+771, GP02-359834, Japanese Patent    Nippon Electric Glass (J), 2015, A038021, 63.53, 10.82, 6.41, , 15.73, , 398107.0
+772, GP02-359835, Japanese Patent    Nippon Electric Glass (J), 2015, A038021, 64.9, 11.0, 6.0, , 14.0, , 501187.0
+773, GP02-359836, Japanese Patent    Nippon Electric Glass (J), 2015, A038021, 64.9, 13.0, 3.0, 3.0, 14.0, , 630957.0
+774, GP02-359837, Japanese Patent    Nippon Electric Glass (J), 2015, A038021, 64.9, 9.0, 3.0, , 16.0, , 79432.8
+775, GP06-359897, Japanese Patent    Nippon Electric Glass (J), 2015, A042607, 66.13, 13.33, 3.21, , 17.23, , 3981070.0
+776, GP06-359898, Japanese Patent    Nippon Electric Glass (J), 2015, A042607, 66.27, 13.01, 3.5, , 17.12, , 1584890.0
+777, GP06-359899, Japanese Patent    Nippon Electric Glass (J), 2015, A042607, 66.17, 13.01, 3.8, , 16.92, , 1995260.0
+778, GP02-359952, Japanese Patent    Nippon Electric Glass (J), 2015, A044743, 59.19, 12.53, 1.67, 2.4, 17.35, , 125893.0
+779, GP02-359994, Japanese Patent    Nippon Electric Glass (J), 2015, A051882, 67.6, 8.5, 6.0, , 8.5, , 100000.0
+780, GP02-359996, Japanese Patent    Nippon Electric Glass (J), 2015, A051882, 66.9, 8.5, 6.0, , 8.5, , 79432.8
+781, GP02-360000, Japanese Patent    Nippon Electric Glass (J), 2015, A051882, 73.9, 8.7, , , 4.3, , 158489.0
+782, GP02-360028, Japanese Patent    Nippon Electric Glass (J), 2015, A054790, 68.4, 11.5, 1.7, , 15.4, , 501187.0
+783, GP02-360029, Japanese Patent    Nippon Electric Glass (J), 2015, A054790, 66.1, 11.8, 4.0, , 15.3, , 1000000.0
+784, GP02-360101, Japanese Patent    Nippon Electric Glass (J), 2015, A061808, 64.87, 11.61, 0.8, , 13.51, , 316228.0
+785, GP02-360385, Japanese Patent    Nippon Electric Glass (J), 2015, A091739, 67.37, 12.74, 2.44, , 13.97, , 3981070.0
+786, GP05-360469, Japanese Patent    Nippon Electric Glass (J), 2015, A098430, 77.7, 4.43, , 0.57, 6.16, , 251189.0
+787, GP02-360715, US Patent    Corning Inc. (US), 2015, A8951927, 66.96, 12.63, 2.47, 0.04, 13.84, , 2569000.0
+788, GP02-360716, US Patent    Corning Inc. (US), 2015, A8951927, 67.11, 12.57, 2.42, 0.04, 13.64, , 1896000.0
+789, GP02-360978, US Patent    Nippon Electric Glass (J), 2015, A9034469, 59.19, 12.53, 1.67, 2.4, 17.35, , 125893.0
+790, GP02-361021, US Patent    Nippon Electric Glass (J), 2015, A0004390, 64.38, 11.94, 4.69, 1.16, 15.76, , 630957.0
+791, GP02-361037, US Patent    Nippon Electric Glass (J), 2015, A0004390, 64.65, 13.54, 3.26, , 17.39, , 1258930.0
+792, FJ06-371850, American Mineralogist, 2009, v. 094  p. 0001, 84.42, 7.91, , , 4.79, , 1.0E10
+793, GJ05-373697, J. Non-Crystalline Solids, 2017, v. 478  p. 0029, 65.26, , , , 13.76, , 125893.0
+794, GP01-375415, US Patent    Corning Inc. (US), 2016, A0304392, 95.72, , , , , , 12.13
+795, GJ06-378011, Glass Physics & Chemistry, 2017, v. 043  p. 0347, *, *, *, *, , , 1000000.0
+796, XJ06-378012, Glass Physics & Chemistry, 2017, v. 043  p. 0347, *, *, *, *, , , 1000000.0
+797, GJ20-379342, J. Non-Crystalline Solids, 2018, v. 498  p. 0461, , , , , 50.0, , 0.630957
+798, GJ20-379345, J. Non-Crystalline Solids, 2018, v. 498  p. 0461, , , 50.0, , , , 199.526
+799, GJ20-379346, J. Non-Crystalline Solids, 2018, v. 498  p. 0461, , , , 50.0, , , 6.30957
+800, GJ20-379349, J. Non-Crystalline Solids, 2018, v. 498  p. 0461, , , , , 25.0, , 6.30957
+801, GJ06-381535, Contrib. Mineral. Petrol., 2008, v. 155  p. 0689, 74.02, 13.2, 0.07, 0.05, 0.06, , 112.6
+802, GJ06-381536, Contrib. Mineral. Petrol., 2008, v. 155  p. 0689, 74.88, 12.12, , , 0.03, , 6.30957E7
+803, GJ06-381537, Contrib. Mineral. Petrol., 2008, v. 155  p. 0689, 75.98, 12.24, , 0.02, 1.1, , 5.01187E11
+804, GJ03-381549, Ceramics - Silikaty, 2011, v. 055  p. 0054, 69.04, 0.4, 6.49, 6.49, 6.74, , 100000.0
+805, GJ03-381550, Ceramics - Silikaty, 2011, v. 055  p. 0054, 69.04, 0.4, 6.49, 6.49, 4.5, , 177828.0
+806, GJ03-381551, Ceramics - Silikaty, 2011, v. 055  p. 0054, 69.04, 0.4, 6.49, 6.49, 2.25, , 501187.0
+807, GJ06-382600, Glass & Ceramics, 2018, v. 075  p. 0424, *, *, *, *, *, *, 15848.9
+808, GJ06-382601, Glass & Ceramics, 2018, v. 075  p. 0424, *, *, *, *, *, *, 35481.3
+809, GJ06-382602, Glass & Ceramics, 2018, v. 075  p. 0424, *, *, *, *, *, *, 50118.7
+810, GP02-383392, US Patent    Corning Inc. (US), 2017, A9701573, 70.97, 4.03, , , 1.52, , 5000.0
+811, GJ02-387135, J. Non-Crystalline Solids, 2019, v. 505  p. 0170, 68.8, 8.34, , 8.83, 14.03, , 101000.0
+812, GJ02-387137, J. Non-Crystalline Solids, 2019, v. 505  p. 0170, 66.0, 8.46, , 11.62, 13.92, , 50000.0
+813, GJ03-387138, J. Non-Crystalline Solids, 2019, v. 505  p. 0170, 66.2, 5.1, , 15.12, 13.58, , 20000.0
+814, GJ03-387140, J. Non-Crystalline Solids, 2019, v. 505  p. 0170, 64.34, 7.01, , 15.2, 13.45, , 23000.0
+815, GJ02-387143, J. Non-Crystalline Solids, 2019, v. 505  p. 0170, 64.7, 6.64, , 13.08, 15.58, , 21000.0
+816, GJ02-387144, J. Non-Crystalline Solids, 2019, v. 505  p. 0170, 69.19, 5.42, , 11.75, 13.64, , 40000.0
+817, GJ02-387145, J. Non-Crystalline Solids, 2019, v. 505  p. 0170, 71.12, 7.35, , 7.89, 13.64, , 100000.0
+818, GJ03-387146, J. Non-Crystalline Solids, 2019, v. 505  p. 0170, 70.21, 7.25, , 11.94, 10.6, , 105000.0
+819, GJ02-387148, J. Non-Crystalline Solids, 2019, v. 505  p. 0215, 49.86, 7.49, 2.08, 4.93, 18.55, , 112.202
+820, GJ02-387149, J. Non-Crystalline Solids, 2019, v. 505  p. 0215, 35.97, 19.49, , 0.9, 14.24, 0.19, 501.187
+821, GJ02-387150, J. Non-Crystalline Solids, 2019, v. 505  p. 0215, 35.21, 18.74, , 0.91, 17.61, 0.23, 251.189
+822, GJ02-390603, J. Non-Crystalline Solids, 2019, v. 517  p. 0017, 30.25, 20.86, 0.19, 0.44, 12.67, 0.21, 386.0
+823, GJ06-390604, J. Non-Crystalline Solids, 2019, v. 517  p. 0017, 29.0, 23.9, 0.02, 0.26, 8.69, 0.008132, 503.0
+824, GJ06-390605, J. Non-Crystalline Solids, 2019, v. 517  p. 0017, 26.7, 24.54, 0.02, 1.67, 8.69, 0.008664, 373.0
+825, GJ01-392828, J. American Ceramic Soc., 2017, v. 100  p. 1982, 95.0, , , , , , 7.0E11
+826, GJ06-393774, J. Non-Crystalline Solids, 2019, a. 119635, 48.65, 26.28, , , 6.19, , 2.51189E10
+827, GJ06-393781, J. Non-Crystalline Solids, 2019, a. 119635, 65.6, 17.76, , , 0.08, , 1.47911E12
+828, GJ03-393987, J. American Ceramic Soc., 2018, v. 101  p. 0005, 56.25, 0.62, 11.2, 14.49, 2.97, , 63095.7
+829, GJ02-397196, J. American Ceramic Soc., 2018, v. 101  p. 1880, 47.66, 3.78, 2.37, 7.21, 13.97, 0.52, 100.0
+830, GJ02-397197, J. American Ceramic Soc., 2018, v. 101  p. 1880, 51.05, 3.73, 4.57, 7.79, 5.8, 0.67, 150.0
+831, FJ08-397692, J. American Ceramic Soc., 2019, v. 102  p. 6575, 33.18, 2.02, 6.04, 11.58, 16.83, , 2.5
+832, FJ03-397696, J. American Ceramic Soc., 2019, v. 102  p. 6575, 31.0, 1.23, 4.59, 26.09, 16.57, , 6.0
+833, FJ03-397699, J. American Ceramic Soc., 2019, v. 102  p. 6575, 30.46, 1.3, 4.91, 25.58, 13.85, , 2.0
+834, FJ05-399330, J. American Ceramic Soc., 2020, v. 103  p. 2453, 60.16, 2.42, , 5.7, 6.99, , 743.4

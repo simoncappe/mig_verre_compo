@@ -7,7 +7,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
 from sklearn import preprocessing
 
-from traitement import traitement_data,u,v
+from traitement_backup import traitement_data,u,v
 
 
 density_file='density_table.csv'
