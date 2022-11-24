@@ -86,9 +86,9 @@ def cleanup_data(file_name,error,ref=100):
     clean_data=clean_data[abs(np.sum(clean_data[clean_data.columns[:-1]],axis=1)-ref)<error]
     clean_data.to_csv(file_name+'_clean.csv',index=False)
 
-'''#exemple d utilisation
+#exemple d utilisation
 oxides=['SiO2','MgO','Na2O','Al2O3','CaO']
 extract_table('fracture_toughness_100',oxides,'Toughness')
 select_data('fracture_toughness_100_tableonly',oxides,'Toughness')
 cleanup_data('fracture_toughness_100_tableonly_data',0.1,100)
-df0=pd.read_csv('fracture_toughness_100_tableonly_data')'''
+df0=pd.read_csv('fracture_toughness_100_tableonly_data')
