@@ -10,7 +10,7 @@ from sklearn import preprocessing
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import PolynomialFeatures
 
-from preparation_donnees_INTERGLAD_06 import cleanup_data,extract_table,select_data,str_to_float
+from preparation_donnees_INTERGLAD_07 import cleanup_data,extract_table,select_data,str_to_float
 
 
 from sklearn.model_selection import KFold

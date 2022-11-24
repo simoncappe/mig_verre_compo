@@ -96,3 +96,5 @@ def do_all(file_name,oxides,property):
 oxides=['SiO2','MgO','Na2O','Al2O3','CaO']
 do_all('fracture_toughness_100',oxides,'Toughness')
 """
+oxides=['SiO2','MgO','Na2O','Al2O3','CaO']
+do_all('fracture_toughness_100',oxides,'Toughness')

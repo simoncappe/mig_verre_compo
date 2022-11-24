@@ -10,7 +10,7 @@ from sklearn import preprocessing
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import PolynomialFeatures
 
-from preparation_donnees_INTERGLAD_06 import cleanup_data,extract_table,select_data,str_to_float
+
 
 density_file='density_table.csv'
 
@@ -18,6 +18,7 @@ density_file='density_table.csv'
 #extract_table(density_file,oxides,'Density')
 #select_data('density_100_tableonly',oxides,'Density')
 #cleanup_data('Density_100_tableonly_data',0.1,100)
+df0=pd.read_csv('fracture_toughness_100.csv')
 grandeur_mesuree=df0.columns[-1]
 data=df0[df0.columns[0:-1]]
 
