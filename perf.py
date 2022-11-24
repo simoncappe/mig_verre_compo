@@ -10,15 +10,14 @@ from sklearn import preprocessing
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import PolynomialFeatures
 
-from traitement import traitement_data,u,v,nettoyage_y
+from preparation_donnees_INTERGLAD_06 import cleanup_data,extract_table,select_data,str_to_float
 
 
 from sklearn.model_selection import KFold
 
 #kf=KFold(n_splits=2,shuffle=True)
 file='density_table.csv'
-df0=traitement_data(file)
-df0=nettoyage_y(df0)
+df0=
 grandeur_mesuree=df0.columns[-1]
 data=df0[[' SiO2', ' Al2O3', ' MgO', ' CaO',
 ' Na2O']]
